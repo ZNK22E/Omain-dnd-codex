@@ -1,49 +1,194 @@
-# Starlight Starter Kit: Basics
+# The Grand Archives of Sacro Elcarion
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+A Starlight/Astro-powered **D&D campaign codex** for the world of Omain. Built to sync with Obsidian and Git so the DM can update lore, sessions, characters, and locations with simple markdown files.
+
+**Live Site:** [https://znk22e.github.io/Omain-dnd-codex/](https://znk22e.github.io/Omain-dnd-codex/), (soon to be migrated to a dedicated VPS & Domain).
+
+## 1. Tech Stack
+
+- **Astro**, **Starlight** and **CustomCSS** for docs theme
+- **Markdown / MDX** for content
+- **TypeScript-ready** config (but we haven't used this)
+- Designed to work well with **Obsidian, Git and GitHub** workflows
+- **Github Pages** for hosting
+
+## 2. Prerequisites
+
+Make sure you have:
+
+- **Node.js** >= 18
+- **npm** or pnpm/yarn if you prefer
+- **Git**
+
+Check versions:
+
+```bash
+node -v
+npm -v
+git --version
+```
+
+## 3. Getting Started (Local Dev Setup)
+
+1. **Clone the repo**
+
+   ```bash
+   git clone https://github.com/ZNK22E/Omain-dnd-codex.git
+   cd omain-dnd-codex
+   ```
+
+2. **Install dependencies**
+
+   ```bash
+   npm install
+   ```
+
+3. **Run the dev server**
+
+   ```bash
+   npm run dev
+   ```
+
+   Then open the printed URL in your browser, usually:
+
+   - http://localhost:4321
+
+4. **Stop the dev server**
+
+   - Hit `Ctrl + C` in the terminal window running `npm run dev`.
+
+## 4. Project Structure
+
+```text
+omain-dnd-codex/
+├─ astro.config.mjs          # Astro + Starlight configuration
+├─ package.json              # Scripts & dependencies
+├─ .gitignore                # Files Git will ignore
+├─ src/
+│  ├─ styles/
+│  │  └─ custom.css          # Custom theming (fonts, colors, hero styling, cards)
+│  ├─ content/
+│  │  └─ docs/               # All content lives here
+│  │     ├─ index.mdx        # Homepage ("The Grand Archives")
+│  │     ├─ sessions/        # The Session Ledger
+│  │     │  ├─ index.mdx     # Sessions index page
+│  │     │  └─ ...           # Individual session files
+│  │     ├─ lore/            # The Lore Stacks
+│  │     │  ├─ index.mdx
+│  │     │  └─ ...           # Lore categories + articles
+│  │     ├─ characters/      # The Character Index
+│  │     │  ├─ index.mdx
+│  │     │  └─ ...           # Character groups + NPC/PC pages
+│  │     ├─ locations/       # The Atlas of Omain
+│  │     │  ├─ index.mdx
+│  │     │  └─ ...           # Countries, cities, landmarks
+│  │     └─ reference/       # Observer tools & guides
+│  │        ├─ index.mdx     # "Tools of the Observer" landing (not yet implemented)
+│  │        └─ ...           # Git cheat sheet, Markdown cheat sheet, etc.
+```
+
+## 5. Routes & Navigation
+
+Starlight maps docs files to routes like this:
+
+- `/` Home
+- `/sessions/` The Session Ledger
+- `/lore/` The Lore Stacks
+- `/characters/` The Character Index
+- `/locations/` The Atlas of Omain
+- `/reference/` Tools of the Observer
+
+## 6. Editing Content (DM Guide)
+
+### 6.1 Frontmatter Example
+
+```md
+---
+title: "Session 01 — Prologue at the Ember Inn"
+description: "The party meets amidst rumours, cheap ale, and a missing caravan contract."
+---
+```
+
+### 6.2 File Naming Rules
+
+- Use **kebab-case**
+- Make filenames descriptive & permanent
+- Good:
+  - `session-03-fallen-moon.md`
+  - `ember-inn.md`
+- Avoid:
+  - `new-lore.md`
+  - `notes.md`
+
+## 7. NPM Scripts
+
+```bash
+npm run dev
+npm run build
+npm run preview
+```
+
+This will, in order;
+
+- Start the dev server
+- Build the static site
+- Preview the production build
+
+## 8. Build & Preview
+
+```bash
+npm run build
+npm run preview
+```
+
+Output site is served from:
 
 ```
-npm create astro@latest -- --template starlight
+dist/
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 9. Deployment Pipeline
 
-## 🚀 Project Structure
+This is currently served with Github Pages and will soon be migrated over to a dedicated VPS hosted by [Nathan K.](https://nkitch.com)
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+## 10. Git Workflow (Quick Rituals)
 
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   └── docs/
-│   └── content.config.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
+```bash
+git status
+git add .
+git commit -m "Add Session 05 + two new NPCs"
+git push origin main
 ```
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+To pull remote updates:
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+```bash
+git pull origin main
+```
 
-Static assets, like favicons, can be placed in the `public/` directory.
+## 11. Troubleshooting
 
-## 🧞 Commands
+**Page not appearing**
 
-All commands are run from the root of the project, from a terminal:
+- Ensure it's inside `src/content/docs/`
+- Ensure filename has `.md` or `.mdx`
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+**Sidebar missing entry**
 
-## 👀 Want to learn more?
+- Add it to `astro.config.mjs` _or_
+- Use autogenerate rules
 
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+**Frontmatter errors**
+
+- Use spaces, not tabs
+- Ensure `---` at the top
+
+## 12. Contributing
+
+Have a cool idea, formatting suggestion, or styling update?
+
+Submit a PR or open an issue. Collaboration is always welcome.
+
+## 13. License
+
+This codex exists for storytelling, fun, and chaos. Use it, fork it, remix it.
