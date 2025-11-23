@@ -1,0 +1,20 @@
+---
+const { title, subtitle, items } = Astro.props;
+---
+
+<section class="library-index">
+  <header class="library-header">
+    <h1>{title}</h1>
+    {subtitle && <p class="library-sub">{subtitle}</p>}
+  </header>
+
+  <div class="library-grid">
+    {items.map((item) => (
+      <a href={item.href} class="library-card">
+        <div class="library-card-icon">{item.icon}</div>
+        <h2>{item.label}</h2>
+        {item.desc && <p>{item.desc}</p>}
+      </a>
+    ))}
+  </div>
+</section>

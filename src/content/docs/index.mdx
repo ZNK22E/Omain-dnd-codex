@@ -1,0 +1,120 @@
+---
+title: The Grand Archives
+description: A boundless enchanted archive chronicling every tale of Omain.
+template: splash # Remove or comment out this line to display the site sidebar on this page.
+hero:
+  tagline: A boundless enchanted archive chronicling every tale of Omain.
+  image:
+    file: ../../assets/hero.png
+  actions:
+    - text: Open the Session Ledger
+      link: /sessions
+      icon: right-arrow
+      variant: primary
+    - text: Browse the Lore Stacks
+      link: /lore
+      icon: open-book
+      variant: minimal
+---
+
+import { Card, CardGrid, Icon } from "@astrojs/starlight/components";
+
+## Behold, the forbidden knowledge. Browse at your own risk..
+
+<CardGrid>
+
+<Card title="For Adventurers" icon="star">
+  Consult the records between sessions to recall what truly happened—not just
+  the drunken tavern retelling. The Session Ledger preserves every battle,
+  bargain, and bad decision in order.
+</Card>
+
+<Card title="For the Observer" icon="rocket">
+  The Library is maintained entirely in Obsidian. As you write in your vault,
+  the archives are updated through Git and rebuilt automatically, keeping the
+  public record in sync with your private notes.
+</Card>
+
+<Card title="The Session Ledger" icon="list-format">
+  Visit the <a href="/sessions">Sessions</a> shelves for a chronological record
+  of the campaign. Each entry can reference characters, locations, and
+  lore—forming a web of cross-linked knowledge.
+</Card>
+
+<Card title="The Lore Stacks" icon="open-book">
+  The <a href="/lore">Lore</a> stacks contain histories, prophecies, pantheons,
+  factions, and cosmology. Ideal for late-night theory-crafting and “wait,
+  wasn’t there a prophecy about this?” moments.
+</Card>
+
+<Card title="The Character Index" icon="comment-alt">
+  Browse the <a href="/characters">Character Index</a> to remember who you’ve
+  met, who you’ve wronged, and who is smiling a little too kindly.
+</Card>
+
+<Card title="The Atlas of Omain" icon="puzzle">
+  The <a href="/locations">Locations</a> section charts cities, ruins, taverns,
+  and strange places. Each map entry can link to sessions and characters tied to
+  that place.
+</Card>
+
+<Card title="How the Library Endures" icon="seti:html">
+  Behind the shelves is a static Starlight build: markdown in, archive out. As
+  long as the Obsidian vault survives, so does the Grand Library.
+</Card>
+
+<Card title="New Wings & Collections" icon="add-document">
+  Need a bestiary, item compendium, or quest log? Add new markdown under
+  <code>src\content\docs</code> and configure a new section, another wing in the
+  Archives.
+</Card>
+
+</CardGrid>
+
+## Tools of the Observer
+
+> _“To record is to defy oblivion.”_ — Archivist Elion
+
+<div class="observer-tools">
+  <a class="observer-card" href="/reference/for-the-observer/">
+    <div class="observer-icon">
+      <img
+        src="https://api.iconify.design/mdi/script-text-outline.svg"
+        alt=""
+        aria-hidden="true"
+      />
+    </div>
+    <div class="observer-body">
+      <h3>The Observer’s Mandate</h3>
+      <p>How to expand, maintain, and preserve the Grand Archives.</p>
+    </div>
+  </a>
+
+<a class="observer-card" href="/reference/git-cheatsheet-for-the-observer/">
+  <div class="observer-icon">
+    <img
+      src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0yMSAxLjk5N2MtMTUgMC0xNyAxNC0xOCAyMGgxLjk5OHEuOTk5LTUgNS4wMDItNS41YzQtLjUgNy00IDgtN2wtMS41LTFsMS0xYzEtMSAyLjAwNC0yLjUgMy41LTUuNSIvPjwvc3ZnPg=="
+      alt=""
+      aria-hidden="true"
+    />
+  </div>
+  <div class="observer-body">
+    <h3>Git Rituals</h3>
+    <p>The sacred commands for committing new history.</p>
+  </div>
+</a>
+
+  <a class="observer-card" href="/reference/markdown-cheatsheet-for-the-observer/">
+    <div class="observer-icon">
+      <img
+        src="https://api.iconify.design/ph/pen-nib-straight-fill.svg"
+        alt=""
+        aria-hidden="true"
+      />
+    </div>
+    <div class="observer-body">
+      <h3>Script of the Archives</h3>
+      <p>Markdown syntax for clean, readable worldbuilding.</p>
+    </div>
+  </a>
+</div>
