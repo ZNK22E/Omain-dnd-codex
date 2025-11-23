@@ -1,4 +1,26 @@
+---
+title: The Erulian Empire
+description: Absolute Monarchy
+type: Location
+category: Country
+capital: Erule
+region: Droskarin
+ruler: Erolith I
+language: Erulian (official), Common
+currency: Hexic Crown (ɌH)
+population: '"Erulian" ~441 million (~31% of global population)'
+size: 19.0 million km²
+religion: Hexadem
+calendar: Erulian Calendar
+law: Centralized imperial courts, trial-based justice
+military: Rank 1
+wealth: Rank 2
+existence: Over 1500 years
+draft: false
+---
+
 The **Erulian Empire** is the largest and oldest known political state in Omain, encompassing **19.0 million square kilometers** including its mainland territory on Droskarin and full control of the Shersian Archipelago. Originating from the tribal human culture of the **Erulians** in the region now known as **Erule**, the Empire has historically served as the dominant cultural, political, and religious force across the world.
+
 ### **At a Glance**
 
 | Category                      | Information                                        |
@@ -25,9 +47,7 @@ The **Erulian Empire** is the largest and oldest known political state in Omain,
 The empire was founded by **Emperor Calados I** in **Year 0 of the Erulian Calendar**, an event marking the formal establishment of the empire, the creation of the **Hexadem religion**, and the introduction of the first recorded timekeeping system in Omain. The Erulian Calendar divides history into:
 
 - **A.H. — After Hexadem** (from Year 0 onward)
-    
 - **B.H. — Before Hexadem** (dates prior to the empire’s founding)
-    
 
 Originally composed solely of the Erulian human tribe, the empire gradually expanded through conquest, colonization, religious influence, and integration, eventually evolving into a **multicultural imperial state** incorporating races, cultures, and regions beyond its homeland.
 
@@ -46,11 +66,8 @@ Although its land holdings have diminished significantly from their height, many
 The modern Erulian Empire is an **authoritarian state** ruled by **Empress Erolith I**, who holds total legal, political, military, and religious authority. Centralized power structures, strict imperial law, and institutional dominance reinforce the empire’s continued relevance, despite reduced territorial size.
 
 - **Current size:** **19.0 million km²**
-    
 - **Status:** Smallest territorial extent in imperial history
-    
 - **Global role:** Still the dominant cultural and geopolitical power
-    
 
 The empire remains heavily centralized around Erule, its capital and spiritual birthplace.
 
@@ -60,22 +77,19 @@ The empire remains heavily centralized around Erule, its capital and spiritual b
 
 The mainland territory of the Erulian Empire is located on **Droskarin**, bordered by:
 
-|Neighboring Region|Direction|
-|---|---|
-|**Kingdom of Ka**|West|
-|**Kingdom of Kelar**|South|
-|**Helskirk**|South|
-|**Permatesh**|North|
-|**Terra Fina Channel**|East|
+| Neighboring Region     | Direction |
+| ---------------------- | --------- |
+| **Kingdom of Ka**      | West      |
+| **Kingdom of Kelar**   | South     |
+| **Helskirk**           | South     |
+| **Permatesh**          | North     |
+| **Terra Fina Channel** | East      |
 
 In addition to continental borders, the empire **fully governs the Shersian Archipelago**, located between the Eastern and Western continents.
 
 - **Mainland area:** 17.9 million km²
-    
 - **Shersian Archipelago:** 1.1 million km²
-    
 - **Total territory:** 19.0 million km²
-    
 
 Imperial naval infrastructure extends across both hemispheres and controls key maritime routes through the central channels of Omain.
 
@@ -116,6 +130,7 @@ _(Section Pending — Placeholder for leaders, heroes, religious figures, etc.)_
 _(Section Pending — Placeholder for capital cities, trade hubs, colonies, etc.)_
 
 ---
+
 These modern borders emerged after multiple imperial partitions and cultural migrations.
 
 ---
@@ -125,6 +140,7 @@ These modern borders emerged after multiple imperial partitions and cultural mig
 _(Section Pending — Placeholder for Military)_
 
 ---
+
 ### **Summary**
 
 The Erulian Empire remains the cornerstone of Omain’s cultural identity, religion, and historical continuity. Though diminished from its peak territorial extent, it continues to function as the world’s most influential imperial power, sustained by strong central rule, expansive religious heritage, and longstanding geopolitical dominance.
