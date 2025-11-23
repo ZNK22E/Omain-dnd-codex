@@ -16,7 +16,7 @@ law: Exile
 military: Rank 7
 wealth: Rank 6
 existence: over 250 years
-draft: true
+draft: false
 ---
 
 ## **Overview**
