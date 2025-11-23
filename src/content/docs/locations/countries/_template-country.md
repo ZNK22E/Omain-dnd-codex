@@ -5,21 +5,27 @@ type: Location
 category: Country
 capital:
 region:
-ruler:
-language:
-currency:
-population:
-size:
-religion:
-calendar:
-law:
-military: Rank
-wealth: Rank
-existence:
 draft: true
 ---
 
-## **Overview**
+## **Introduction**
+### **At a Glance**
+
+|Category|Information|
+|---|---|
+|**Capital City**||
+|**Languages**||
+|**Currency**||
+|**Calendar**||
+|**Existence as a Kingdom**||
+|**Religion**||
+|**World Population**||
+|**Population of Ka**||
+|**Size**||
+|**System of Rule**||
+|**Law Enforcement**||
+|**Military Ranking**||
+|**Wealth Ranking**||
 
 How the country is seen by outsiders; government type and general culture.
 

@@ -5,23 +5,30 @@ type: Location
 category: Country
 capital: Erule
 region: Droskarin
-ruler: Erolith I
-language: Erulian (official), Common
-currency: Hexic Crown (ɌH)
-population: '"Erulian" ~441 million (~31% of global population)'
-size: 19.0 million km²
-religion: Hexadem
-calendar: Erulian Calendar
-law: Centralized imperial courts, trial-based justice
-military: Rank 1
-wealth: Rank 2
-existence: Over 1500 years
 draft: false
 ---
 
-## **Overview**
+## **Introduction**
 
 The **Erulian Empire** is the largest and oldest known political state in Omain, encompassing **19.0 million square kilometers** including its mainland territory on Droskarin and full control of the Shersian Archipelago. Originating from the tribal human culture of the **Erulians** in the region now known as **Erule**, the Empire has historically served as the dominant cultural, political, and religious force across the world.
+### **At a Glance**
+
+|Category|Information|
+|---|---|
+|**Capital City**|_Erule_|
+|**Languages**|Erulian (official), Common|
+|**Currency**|_Hexic Crown_ (ɌH)|
+|**Calendar System**|Erulian Calendar|
+|**Existence**|Over **1,500 years**|
+|**Religion (State & Origin)**|Hexadem|
+|**Global Population**|~1.42 billion|
+|**Population of Empire**|"Erulian" ~441 million (~31% of global population)|
+|**Total Size**|19.0 million km²|
+|**System of Rule**|Absolute Monarchy|
+|**Current Ruler**|Empress Erolith I|
+|**Law Enforcement**|Centralized imperial courts, trial-based justice|
+|**Military Power Ranking**|#1 globally|
+|**Wealth Ranking**|#2 globally|
 
 ## **Origins and Foundations**
 The empire was founded by **Emperor Calados I** in **Year 0 of the Erulian Calendar**, an event marking the formal establishment of the empire, the creation of the **Hexadem religion**, and the introduction of the first recorded timekeeping system in Omain. The Erulian Calendar divides history into:

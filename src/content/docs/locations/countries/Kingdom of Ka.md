@@ -5,23 +5,29 @@ type: Location
 category: Country
 capital: Ka
 region: Droskarin
-ruler: Council of Ka
-language: Erulian (official), Bolborkian (Near Extinct), Common
-currency: Hexic Crown (ɌH)
-population: '"Bolborkian" or "Kaian" ~198 million (**~14% of global population**)'
-size: "**8.4 million km²**"
-religion: Predominantly atheist; minority Hexadem adherents
-calendar: Erulian Calendar
-law: Court-based judicial system
-military: Rank 4
-wealth: Rank 5
-existence: Over **1000 years**
 draft: false
 ---
 
-## **Overview**
+## **Introduction**
 
-The **Kingdom of Ka** is a sovereign nation on the eastern continent of Droskarin, known historically as the former region of **Bolborkia**, homeland of the human Bolborkian tribes. Once conquered and absorbed by the Erulian Empire in **74 A.H.** under Emperor Talios I, the region later broke away and reestablished independence in **516 A.H.** following a successful uprising led by **Joriel I**. The nation was renamed the _Kingdom of Ka_ by its most recent monarch, **King Marek I**, after himself and the capital city. Following Marek’s death, the kingdom is currently governed by a ruling council, awaiting the emergence of a legitimate heir.
+The **Kingdom of Ka** is a sovereign nation on the eastern continent of Droskarin, known historically as the former region of **Bolborkia**, homeland of the human Bolborkian tribes. Once conquered and absorbed by [[The Erulian Empire]] in **74 A.H.** under Emperor Talios I, the region later broke away and reestablished independence in **516 A.H.** following a successful uprising led by **Joriel I**. The nation was renamed the _Kingdom of Ka_ by its most recent monarch, **King Marek I**, after himself and the capital city. Following Marek’s death, the kingdom is currently governed by a ruling council, awaiting the emergence of a legitimate heir.
+### **At a Glance**
+
+|Category|Information|
+|---|---|
+|**Capital City**|Ka|
+|**Languages**|Erulian (official), Bolborkian (near-extinct), Common|
+|**Currency**|Hexic Crown (ɌH)|
+|**Calendar**|Erulian Calendar|
+|**Existence as a Kingdom**|Over **100 years**|
+|**Religion**|Predominantly atheist; minority Hexadem adherents|
+|**World Population**|~1.42 billion|
+|**Population of Ka**|"Bolborkian" or "Kaian" ~198 million (**~14% of global population**)|
+|**Size**|8.4 million km²|
+|**System of Rule**|Council governance (no current monarch)|
+|**Law Enforcement**|Court-based judicial system|
+|**Military Ranking**|#4 globally|
+|**Wealth Ranking**|#5 globally|
 
 ## **Origins and Foundations**
 #### **Pre-Imperial Era (Bolborkia)**
