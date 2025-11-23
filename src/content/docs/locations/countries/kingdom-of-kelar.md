@@ -9,6 +9,22 @@ draft: false
 ---
 
 ## **Introduction**
+### **At a Glance**
+
+|Category|Information|
+|---|---|
+|**Capital City**|Draceis Montis|
+|**Languages**|Draconic(official within dragons), common(Mortals)|
+|**Currency**|**Kelaric Draken** _(ɌD)_|
+|**Calendar**| Draconic Calendar|
+|**Existence as a Kingdom**|Over 250 years|
+|**Religion**|Draconic Truth, Other religions|
+|**Population of Ka**|"Kelarian" ~172 million|
+|**Size**|~7.9 million km²|
+|**System of Rule**|Dracocratic Monarchy|
+|**Law Enforcement**|Split Law enforcement depending on Mortals or Dragons|
+|**Military Ranking**|Rank 7|
+|**Wealth Ranking**|Rank 8|
 
 **Kelar** is the youngest nation in Omain, founded in **1223 A.H.** after the draconic clans of the Kelarian Mountains repelled an Erulian siege on the stronghold of **Draceis Montis**. The defeat marked the first recorded failure of an Erulian invasion against draconic territory and directly led to the establishment of Kelar as a sovereign state.
 
