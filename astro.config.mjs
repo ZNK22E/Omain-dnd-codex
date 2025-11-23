@@ -3,6 +3,8 @@ import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 
 export default defineConfig({
+  site: "https://ZNK22E.github.io/Omain-dnd-codex",
+  base: "/Omain-dnd-codex",
   integrations: [
     starlight({
       title: "The Grand Archives of Sacro Elcarion",
