@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/locations/countries/Kingdom of Kelar.md",
+                "file": "docs/locations/countries/kingdom-of-ka.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Kingdom of Kelar"
+              "title": "kingdom-of-ka"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/locations/countries/Kingdom of Kelar.md",
+                "file": "docs/locations/countries/kingdom-of-ka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kingdom of Kelar"
+              "title": "Backlinks for kingdom-of-ka"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/locations/countries/Kingdom of Kelar.md",
+                "file": "docs/locations/countries/kingdom-of-ka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kingdom of Kelar"
+              "title": "Outgoing links from kingdom-of-ka"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/locations/countries/Kingdom of Kelar.md",
+                "file": "docs/locations/countries/kingdom-of-ka.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kingdom of Kelar"
+              "title": "Outline of kingdom-of-ka"
             }
           }
         ]
@@ -185,10 +185,15 @@
   },
   "active": "1d89ee39d58fd3c0",
   "lastOpenFiles": [
+    "docs/locations/countries/kingdom-of-kelar.md",
+    "docs/locations/countries/kingdom-of-ka.md",
+    "docs/locations/countries/the-erulian-empire.md",
+    "docs/locations/countries/The Erulian Empire.md",
+    "docs/locations/countries/the erulian empire.md",
+    "docs/locations/countries/Kingdom of Kelar.md",
+    "docs/locations/countries/Kingdom-of-Ka.md",
     "docs/locations/countries/Countries.md",
     "docs/locations/countries/index.mdx",
-    "docs/locations/countries/Kingdom of Kelar.md",
-    "docs/locations/countries/The Erulian Empire.md",
     "docs/locations/countries/Kingdom of Ka.md",
     "docs/locations/countries/_template-country.md"
   ]
