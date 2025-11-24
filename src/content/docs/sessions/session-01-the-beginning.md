@@ -1,5 +1,5 @@
 ---
-title: "Session XX — Title"
+title: "Session 01 - The Beginning"
 description: "Short, spoiler-safe summary."
 type: "session"
 sessionNumber: 0
