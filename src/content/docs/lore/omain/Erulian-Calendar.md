@@ -1,0 +1,351 @@
+---
+title: Erulian-Calendar
+description: The calendar used by the Erulian Empire and most of the world
+type: lore
+category: Calendar
+draft: false
+---
+
+## **The Erulian Calendar**
+
+### _Official Timekeeping System of the Erulian Empire_
+
+The **Erulian Calendar** is the oldest standardized chronology in Omain, created by **Emperor Calados I** at the founding of the Erulian Empire (Year 0 A.H.). It remains the dominant global calendar due to the Empire’s historical influence.
+
+The calendar divides the year into **10 months of 40 days**, producing a perfectly structured **400-day year**. The year is further divided into **four Erulian Seasons**, each lasting **100 days** and named according to elemental and celestial symbolism tied to the **Hexadem**.
+
+---
+
+## **Erulian Seasons (100 Days Each)**
+
+Each season name is a cultural creation of the early Empire, reflecting the elemental and divine philosophies of the Hexadem.
+
+|**Season**|**Days**|**Meaning**|
+|---|---|---|
+|**Vernath**|Days 1–100|Season of awakening, green growth, and elemental renewal|
+|**Solmiras**|Days 101–200|Season of heat, prosperity, strength, and reality|
+|**Duskarin**|Days 201–300|Season of dusk, introspection, time, and fate|
+|**Frosthold**|Days 301–400|Season of cold, endurance, silence, and divine reflection|
+
+---
+
+##  **Months of the Erulian Year**
+
+Below are **newly created month names**, culturally consistent with Erulian language style, imperial traditions, and Hexadem reverence.
+
+|**Month**|**Days**|**Season**|**Description / Origin**|
+|---|---|---|---|
+|**1. Caladmir**|1–40|Vernath|Named for Calados I; celebrates new beginnings|
+|**2. Aurelune**|41–80|Vernath|From Auriel; month of growing winds and elements|
+|**3. Eldavine**|81–120|Vernath / Solmiras|Dedicated to Eldath; associated with fate-alignments|
+|**4. Tiarion**|121–160|Solmiras|Named for Tiamat; represents shaping of reality|
+|**5. Oghmaris**|161–200|Solmiras|Month of intellect, scholarship, and invention|
+|**6. Sharvost**|201–240|Duskarin|Named after Shar; honors the void and cosmic space|
+|**7. Tetfarn**|241–280|Duskarin|Dedicated to Tetford; associated with the turning of time|
+|**8. Droralis**|281–320|Duskarin / Frosthold|Month of remembrance for Drorialis, the Restorer|
+|**9. Imperion**|321–360|Frosthold|Imperial month honoring the Empire’s lineage|
+|**10. Hexamar**|361–400|Frosthold|Month dedicated to all Six Gods; end-of-year rituals|
+
+---
+
+## **Erulian Festivals**
+
+Festivals are divided into **religious**, **imperial**, **military**, and **seasonal** observances. Each aligns with the philosophies of the Hexadem and the traditions of the Empire.
+
+---
+
+### **I. Religious Festivals (Hexademic)**
+
+#### **• Dawn of the Six**
+
+**Date:** Caladmir 1  
+Marks the beginning of the year and creation of the Hexadem.
+
+---
+
+#### **• Auriel’s Gale**
+
+**Date:** Aurelune 14  
+Celebrates the elemental balance and resurgence of winds.
+
+---
+
+#### **• Eldath’s Choosing**
+
+**Date:** Eldavine 33  
+A ritual where families perform fate-binding ceremonies.
+
+---
+
+#### **• Tiamat’s Shaping**
+
+**Date:** Tiarion 1–8  
+A week-long artistic and architectural celebration.
+
+---
+
+#### **• Oghma’s Illumination**
+
+**Date:** Oghmaris 20  
+A festival of scholarship, invention, and philosophical debate.
+
+---
+
+#### **• Shar’s Nightfall**
+
+**Date:** Sharvost 30  
+Citizens extinguish all lights at dusk to honor the cosmic void.
+
+---
+
+#### **• Tetford’s Turn**
+
+**Date:** Tetfarn 40  
+Marks the symbolic "reset" of time before Frosthold.
+
+---
+
+#### **• The Hexamar Vigil**
+
+**Date:** Hexamar 1–5  
+Five days of pilgrimages, fasting, and temple rituals.
+
+---
+
+### **II. Imperial Festivals**
+
+#### **• Day of Erule**
+
+**Date:** Imperion 12  
+Honors the capital city and the founding dynasty.
+
+---
+
+#### **• Coronation Day**
+
+**Date:** Imperion 28  
+Celebrates the coronation of Calados I; a national holiday.
+
+---
+
+#### **• Erolith’s Reign**
+
+**Date:** Hexamar 20  
+A modern festival recognizing Empress Erolith I’s leadership.
+
+---
+
+### **III. Militaristic Festivals**
+
+#### **• Day of the Inquisitor**
+
+**Date:** Tiarion 17  
+Honors the six Inquisitorial Regiments of the Empire.
+
+---
+
+#### **• Talios’ Triumph**
+
+**Date:** Sharvost 15  
+Commemorates Talios I’s victory in Bolborkia.
+
+---
+
+#### **• The Silent March**
+
+**Date:** Tetfarn 10  
+Memorial for fallen Erulian soldiers; observed in silence.
+
+---
+
+### **IV. Seasonal Festivals**
+
+#### **• Vernath Dawning**
+
+**Date:** Caladmir 10  
+Celebrates the beginning of life’s renewal.
+
+---
+
+#### **• Solmiras Highfire**
+
+**Date:** Oghmaris 1  
+A large feast welcoming the height of summer.
+
+---
+
+#### **• Duskarin Harvestfall**
+
+**Date:** Sharvost 1  
+The major agricultural harvest of the Empire.
+
+---
+
+#### **• Frosthold’s Call**
+
+**Date:** Droralis 1  
+Begin preparations for the cold season; symbolic closure of the year.
+
+---
+## **Monthly Festival Tables**
+
+---
+
+### **Month 1 — Caladmir (Days 1–40)**
+
+**Season:** Vernath (Spring Awakening)
+
+|**Day**|**Event**|
+|---|---|
+|**1**|_Dawn of the Six_ (New Year & Hexadem Creation)|
+|10|Vernath Dawning|
+|**Other days**|Standard calendar days|
+
+---
+
+### **Month 2 — Aurelune (Days 41–80)**
+
+**Season:** Vernath
+
+|**Day**|**Event**|
+|---|---|
+|**14**|Auriel’s Gale|
+|**Other days**|Standard calendar days|
+
+---
+
+### **Month 3 — Eldavine (Days 81–120)**
+
+**Season:** Vernath → Solmiras Transition
+
+|**Day**|**Event**|
+|---|---|
+|**33**|Eldath’s Choosing|
+|**Other days**|Standard calendar days|
+
+---
+
+### **Month 4 — Tiarion (Days 121–160)**
+
+**Season:** Solmiras (Summer)
+
+|**Day**|**Event**|
+|---|---|
+|**1–8**|Tiamat’s Shaping (8-day festival)|
+|**17**|Day of the Inquisitor|
+|**Other days**|Standard calendar days|
+
+---
+
+### **Month 5 — Oghmaris (Days 161–200)**
+
+**Season:** Solmiras
+
+|**Day**|**Event**|
+|---|---|
+|**1**|Solmiras Highfire|
+|**20**|Oghma’s Illumination|
+|**Other days**|Standard calendar days|
+
+---
+
+### **Month 6 — Sharvost (Days 201–240)**
+
+**Season:** Duskarin (Autumn)
+
+|**Day**|**Event**|
+|---|---|
+|**1**|Duskarin Harvestfall|
+|**15**|Talios’ Triumph|
+|**30**|Shar’s Nightfall|
+|**Other days**|Standard calendar days|
+
+---
+
+### **Month 7 — Tetfarn (Days 241–280)**
+
+**Season:** Duskarin
+
+|**Day**|**Event**|
+|---|---|
+|**10**|The Silent March|
+|**40**|Tetford’s Turn|
+|**Other days**|Standard calendar days|
+
+---
+
+### **Month 8 — Droralis (Days 281–320)**
+
+**Season:** Duskarin → Frosthold Transition
+
+|**Day**|**Event**|
+|---|---|
+|**1**|Frosthold’s Call|
+|**Other days**|Standard calendar days|
+
+---
+
+### **Month 9 — Imperion (Days 321–360)**
+
+**Season:** Frosthold
+
+|**Day**|**Event**|
+|---|---|
+|**12**|Day of Erule|
+|**28**|Coronation Day|
+|**Other days**|Standard calendar days|
+
+---
+
+### **Month 10 — Hexamar (Days 361–400)**
+
+**Season:** Frosthold
+
+|**Day**|**Event**|
+|---|---|
+|**1–5**|Hexamar Vigil (Five-day ritual)|
+|**20**|Erolith’s Reign|
+|**Other days**|Standard calendar days|
+
+## **The Erulian Decade (10-Day Week)**
+
+#### _Official Week System of the Erulian Empire_
+
+The Erulian Empire uses a **10-day week** known as a **Decade** (Erulian: _Deka’Lor_).  
+Each day has an entirely unique name derived from ancient High Erulian, not directly referencing the gods.
+
+Below are the redesigned names.
+
+---
+
+### **The Ten Days of the Erulian Week**
+
+|**Day #**|**Name**|**Pronunciation**|**Meaning / Cultural Use**|
+|---|---|---|---|
+|**1**|**Solinar**|_SOH-lih-nar_|The Day of Beginnings; planning, announcements|
+|**2**|**Veldros**|_VEL-drohs_|Work day; building, forging, early-week labor|
+|**3**|**Armath**|_AR-math_|Day of travel, movement, scouting|
+|**4**|**Lunaris**|_LOO-nar-iss_|Day of contracts, oaths, civic duties|
+|**5**|**Keldran**|_KELL-dran_|Day of learning; academies and mages busiest|
+|**6**|**Morvath**|_MOR-vath_|Day of commerce, markets, trade|
+|**7**|**Tessomar**|_TESS-oh-mar_|Day of strategy; records, military planning|
+|**8**|**Braefor**|_BRAY-for_|Training day; drills, discipline, physical tests|
+|**9**|**Crowndel**|_CROWN-del_|Day of imperial administration & tax duties|
+|**10**|**Resthal**|_REST-hall_|Sacred rest day; feasts, worship, family|
+
+## **Summary**
+
+The Erulian Calendar is:
+
+- **400 days long**
+    
+- **10 months of 40 days each**
+    
+- divided into **4 original seasons** (Vernath, Solmiras, Duskarin, Frosthold)
+    
+- deeply tied to **Hexadem religion and imperial tradition**
+    
+- used across the entire Empire and recognized abroad
+    
+
+It remains the most structurally perfect and widely adopted calendar system in all of Omain.

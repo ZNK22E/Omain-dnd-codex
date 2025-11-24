@@ -393,7 +393,702 @@ _(Section Pending.)_
 
 ## **Timeline**
 
-Wars, tensions, treaties, crises, or events the party could get dragged into.
+### **0 A.H.**
+
+Calados Aquabrand, age 24, is crowned **King of Erule** after the formal creation of the **Hexadem** religion. The clergy vote overwhelmingly for him due to his house’s spiritual ties to Auriel. Erule becomes the **first organized nation** in Omain.
+
+> **Calados I:** _“From order we rise, through faith we endure, and by destiny we rule.”_
+
+---
+
+### **1 A.H.**
+
+The first Hexademic priesthood is structured. Temple districts within Erule are mapped out, and informal village shrines begin to appear. Nothing major militarily.
+
+---
+
+### **2 A.H.**
+
+Early scribes begin compiling oral traditions into proto-scriptures that will later inform the Seven Books. Minor border villages pledge allegiance to Erule for protection.
+
+---
+
+### **3 A.H. — Completion of the Seven Books**
+
+The **Seven Books of the Hexadem** are completed by early High Clerics:
+
+- _Book of the Massa’s First_ — **Cleric Joratho Vel**
+    
+- _Book of Auriel_ — **Esmira Dhalos**
+    
+- _Book of Shar_ — **High Scribe Teleron Vesh**
+    
+- _Book of Tiamat_ & _Book of Eldath_ — **Scribe-Lords Marrin & Kelvath Orun**
+    
+- _Book of Oghma_ — **Archmind Seravus Morn**
+    
+- _Book of Tetford_ — **Chronist Eldra Vanton**
+    
+
+> **Seravus Morn:** _“Knowledge is not written; it is awakened.”_
+
+---
+
+### **4 A.H.**
+
+Literacy spreads among the clergy and nobility. The first small scriptoria are built to copy the Seven Books. Nothing notable in foreign policy.
+
+---
+
+### **5 A.H. — The Rose Palace & First Grand Hex**
+
+Construction begins on **the Rose Palace**, an architectural marvel built of rose-colored stone. The **Holy Church of the Hexadem** is formally dedicated, and **Grand Hex Vaelor Primus** is appointed as the first head of the faith.
+
+> **Grand Hex Vaelor Primus:** _“Let stone and scripture rise together, for both are temples of the divine.”_
+
+---
+
+### **6 A.H.**
+
+Artisans and architects from surrounding regions flock to Erule to work on the Rose Palace. Early codification of urban planning begins in the capital.
+
+---
+
+### **7 A.H.**
+
+First recorded famine scare, averted by Hexademic grain redistribution. Calados gains a reputation as both pious and practical.
+
+---
+
+### **8 A.H. — Obsession with Death**
+
+Calados becomes increasingly obsessed with **death** and the **demon Talios** referenced in the Book of Tiamat. He spends long hours consulting obscure passages and recluses himself more frequently.
+
+> **Court Advisor Lethiran:** _“When kings seek answers in shadows, the realm must brace for storms.”_
+
+---
+
+### **9 A.H.**
+
+Rumors spreads among nobles of the king’s macabre fixations, but the common folk remain mostly unaware. The clergy quietly monitor his behavior.
+
+---
+
+### **10 A.H. — Hexademical Baptism**
+
+With Erule’s population surpassing **20,000**, **Hexademical Baptism** becomes mandatory. Every newborn is to be registered and blessed under the faith.
+
+> **Calados I:** _“If the Hexadem shaped our world, let each child be shaped in their image.”_
+
+---
+
+### **11 A.H.**
+
+First census conducted. Records on population, professions, and temple attendance begin being stored in palace archives.
+
+---
+
+### **12 A.H. — First Holy Marriage**
+
+Calados marries **Lady Seralyne Vorandar**, establishing **Hexadem-sanctioned marriage** as the standard legal and religious bond.
+
+> **Seralyne:** _“Love is mortal, but vows are eternal.”_
+
+---
+
+### **13 A.H.**
+
+Minor land disputes arise between rural farmers and early noble estates. The clergy begin acting as mediators.
+
+---
+
+### **14 A.H.**
+
+Calados commissions a “Book of Lineage” for the Aquabrand family, an early genealogical register used to legitimize royal succession.
+
+---
+
+### **15 A.H.**
+
+Nothing notably recorded beyond continuing urban growth and temple expansion.
+
+---
+
+### **16 A.H. — New Frontier Settlements**
+
+Three new settlements are constructed roughly 25 miles from the capital:
+
+- **Northreach** (north)
+    
+- **Eastvale** (east)
+    
+- **Southwatch** (south)
+    
+
+> **Builder Halmar the Stout:** _“A kingdom grows not from one city, but from the roads that reach beyond it.”_
+
+---
+
+### **17 A.H.**
+
+Road-building begins in earnest to connect Erule and the new settlements. Banditry on these early routes becomes a recurring issue.
+
+---
+
+### **18 A.H.**
+
+First small “militia bands” are created to patrol trade roads. Not yet a formal army.
+
+---
+
+### **19 A.H.**
+
+A minor plague outbreak in Eastvale is contained through quarantines and temple-led hygiene edicts.
+
+---
+
+### **20 A.H.**
+
+Grand Hex Vaelor Primus begins standardizing religious rites across all shrines, ensuring doctrinal unity.
+
+---
+
+### **21 A.H.**
+
+Tension between reformist and traditionalist clergy quietly surfaces but does not yet lead to schism.
+
+---
+
+### **22 A.H.**
+
+Seralyne Vorandar becomes more publicly visible, sponsoring festivals and poor relief to improve royal image.
+
+---
+
+### **23 A.H. — Birth of Talios**
+
+Calados and Seralyne have a son: **Talios Aquabrand**, named after the demon of death.
+
+> **Calados I:** _“In my son lives the fear I dare to master.”_
+
+---
+
+### **24 A.H.**
+
+Astrologers proclaim Talios’ birth under “eclipsed omens,” generating both reverence and anxiety.
+
+---
+
+### **25 A.H.**
+
+Nothing major recorded besides routine governance and minor temple disputes.
+
+---
+
+### **26 A.H.**
+
+The Rose Palace’s main hall is completed. Foreign visitors begin to view Erule as a rising cultural center.
+
+---
+
+### **27 A.H.**
+
+The first formal “Hexademic Court” is formed to judge religious disputes and accusations of blasphemy.
+
+---
+
+### **28 A.H. — Death of Grand Hex Vaelor**
+
+**Grand Hex Vaelor Primus** dies of natural causes. A grand national funeral is held.  
+**Grand Hex Selvandar Rhune** is appointed his successor.
+
+> **Selvandar Rhune:** _“Even the holiest flame must dim, so another may brightly burn.”_
+
+---
+
+### **29 A.H.**
+
+Selvandar begins quietly cataloging doctrinal contradictions and ambiguities in the Seven Books for internal use.
+
+---
+
+### **30 A.H.**
+
+Nothing notably recorded. Stable rule, steady population growth, and temple construction continue.
+
+---
+
+### **31 A.H.**
+
+Calados’ health begins to subtly decline; he becomes less active in public ceremonies.
+
+---
+
+### **32 A.H.**
+
+Early merchant guilds form in Erule, laying the groundwork for a more organized economic class.
+
+---
+
+### **33 A.H. — Coastal Expansion**
+
+Population reaches **56,000**. Erule expands its borders to the **Terra Fina** coast.  
+The three earlier towns sponsor new settlements:
+
+- From Northreach → **Northpine**
+    
+- From Eastvale → **Eastbarrow**
+    
+- From Southwatch → **Southmere**
+    
+
+> **Settler Amasia Lorn:** _“Where waves touch the stone of Erule, the world itself bows to the future empire.”_
+
+---
+
+### **34 A.H.**
+
+First primitive docks are built at the coast; no real seafaring yet, just river and shoreline craft.
+
+---
+
+### **35 A.H.**
+
+Calados begins to delegate more power to trusted advisors and to Grand Hex Selvandar.
+
+---
+
+### **36 A.H.**
+
+Rumors circulate that Talios, now 13, is unusually cold and observant for his age.
+
+---
+
+### **37 A.H.**
+
+Nothing notably recorded. Administrative refinement and boundary marking continue.
+
+---
+
+### **38 A.H.**
+
+Minor food shortages lead to the first serious grain storage policies for the capital.
+
+---
+
+### **39 A.H.**
+
+Talios begins private tutoring in theology and early expansionist philosophy.
+
+---
+
+### **40 A.H. — Death of Calados I**
+
+Calados dies from pancreatic failure.  
+**Talios I** is crowned King of Erule.
+
+> **Talios I:** _“My father dreamt of destiny. I shall seize it.”_
+
+---
+
+### **41 A.H.**
+
+Talios reviews legal, religious, and economic structures. He quietly begins planning a transition from kingdom to empire.
+
+---
+
+### **42 A.H. — Foundation of the Erulian Empire**
+
+Talios I marries **Lady Arthelyn Sorelle**. After structural reforms, he announces the conversion of Erule into the **Erulian Empire**.
+
+> **Talios I:** _“A king rules land. An emperor rules history.”_
+
+---
+
+### **43 A.H. — Holy Expansion Decree**
+
+The newly formed Empire creates its first organized **non-Inquisitorial army** and declares a **Holy Expansion**, sanctioned by the Hexadem.
+
+> **Grand Hex Selvandar:** _“If war must come, let it march with scripture in hand.”_
+
+---
+
+### **44 A.H. — First Contact with Elves**
+
+Erulian forces encounter an elven tribe in what will become **Permatesh**. Initial contact is wary but non-violent.
+
+> **Explorer Varnith Lys:** _“Their eyes held centuries. Our empire held ambition.”_
+
+---
+
+### **45 A.H.**
+
+Diplomacy continues with the elves, but imperial advisors pressure Talios to “secure” the forest for strategic reasons.
+
+---
+
+### **46 A.H. — Conquest of Permatesh**
+
+The Empire conquers the **Permateshian Forest**, enslaving the elven tribe and formally subsuming the region.
+
+> **Talios I:** _“A forest bows faster than a crown.”_
+
+---
+
+### **47 A.H.**
+
+Elven slaves begin appearing in noble households and imperial worksites. Some early rebellions are brutally suppressed.
+
+---
+
+### **48 A.H.**
+
+Nothing notably recorded beyond ongoing consolidation and resource extraction from Permatesh.
+
+---
+
+### **49 A.H.**
+
+Talios orders a primitive “border-road” to connect Erule to Permatesh, improving troop movement.
+
+---
+
+### **50 A.H. — Birth of Talios II**
+
+Talios I’s son, **Talios II**, is born.
+
+> **Talios I:** _“He shall inherit not just a throne, but a world.”_
+
+---
+
+### **51 A.H.**
+
+Nothing major; Talios I strengthens his personal guard and begins surrounding himself with more aggressive generals.
+
+---
+
+### **52 A.H.**
+
+First organized slave markets appear in the capital, a dark but pivotal step in imperial economics.
+
+---
+
+### **53 A.H.**
+
+Hexademic clergy grow increasingly uneasy about imperial brutality but remain politically cautious.
+
+---
+
+### **54 A.H.**
+
+Explorers move deeper into the desert searching for resources and uncontacted peoples.
+
+---
+
+### **55 A.H. — Orc Conquest**
+
+Empire encounters an orc tribe in the middle of the desert. They are defeated and enslaved in about a **month**.
+
+> **General Rathmon:** _“They fought like storms. We answered with thunder.”_
+
+---
+
+### **56 A.H.**
+
+Orc labor is redirected toward harsh desert fortifications and road building. Cruel conditions begin to define their enslavement.
+
+---
+
+### **57 A.H. — Draconic Mountains Sighted**
+
+Imperial scouts encounter the **Draconic Mountains** (future Kelar territories), but Talios refuses to advance—too dangerous, seemingly empty.
+
+> **Scout Orridan Mareth:** _“Those peaks do not warn—they dare.”_
+
+---
+
+### **58 A.H.**
+
+The Empire enters a period of consolidation, focusing on internal organization and population growth.  
+New settlement founded: **Bramhold**.
+
+---
+
+### **59 A.H.**
+
+Second settlement in this phase founded: **Sarnwick**.
+
+---
+
+### **60 A.H.**
+
+Third settlement established: **Talmarin**, named after Talios I himself.
+
+---
+
+### **61 A.H.**
+
+Fourth new settlement: **Velcrist**, an early mining town.
+
+---
+
+### **62 A.H.**
+
+Fifth new settlement: **Harrowdeep**, founded near natural cave systems.
+
+---
+
+### **63 A.H.**
+
+Slave uprisings occur in two frontier settlements; both are violently suppressed.
+
+---
+
+### **64 A.H.**
+
+Nothing notably recorded aside from continued expansion of roads, temples, and slave infrastructure.
+
+---
+
+### **65 A.H.**
+
+Early attempts at basic legal codification for slaves and citizens are drafted but not widely enforced.
+
+---
+
+### **66 A.H.**
+
+Hexademic scholars publish the first wide-distribution commentary on the Seven Books, subtly justifying imperial rule.
+
+---
+
+### **67 A.H.**
+
+Talios I begins to show signs of paranoia, increasingly relying on brutal enforcement.
+
+---
+
+### **68 A.H.**
+
+Nothing notably recorded beyond minor diplomatic exchanges and fortress-building.
+
+---
+
+### **69 A.H.**
+
+Quiet year; imperial lines hold, no new major conquests.
+
+---
+
+### **70 A.H.**
+
+Internal reports suggest growing unrest among conquered humans and enslaved races, especially in Permatesh and the desert.
+
+---
+
+### **71 A.H. — Contact with Bolborkians**
+
+Imperial expedition encounters the **Bolborkian human tribe**. Initial contact is diplomatic and trade-based.
+
+> **Talios I:** _“They speak like men, but think like obstacles.”_
+
+---
+
+### **72 A.H.**
+
+Trade deepens between Erule and Bolborkia; cultural exchange occurs but imperial agents begin mapping strategic weaknesses.
+
+---
+
+### **73 A.H.**
+
+Clashes break out between Bolborkian warriors and imperial patrols. Talks begin to sour.
+
+---
+
+### **74 A.H. — Conquest of Bolborkia**
+
+After escalating conflict, the Empire fully absorbs Bolborkia by armed conquest.
+
+> **Talios I:** _“Steel decides where borders stand.”_
+
+---
+
+### **75 A.H.**
+
+Bolborkian unrest simmers. Quiet efforts at cultural erasure begin—Hexademic temples replace local shrines.
+
+---
+
+### **76 A.H.**
+
+Nothing notably recorded beyond ongoing resistance and imperial crackdowns.
+
+---
+
+### **77 A.H.**
+
+A subtle network of Bolborkian rebels begins to form; imperial spies report growing danger.
+
+---
+
+### **78 A.H. — Death of Talios I**
+
+During a Bolborkian uprising, Talios I is struck by an arrow in the chest and dies hours later. The rebellion is crushed.
+
+> **Last recorded words of Talios I:** _“An empire bleeds… but never falls.”_
+
+---
+
+### **79 A.H. — Talios II Crowned**
+
+**Talios II** ascends the throne at a young age, inheriting a vast but unstable empire.
+
+> **Talios II:** _“My father built an empire. I will perfect it.”_
+
+---
+
+### **80 A.H. — Reign of Terror Begins**
+
+Talios II formalizes **torture and public display of rebels** as legal and encouraged. Fear becomes state policy.
+
+> **Talios II:** _“Mercy weakens the throne.”_
+
+---
+
+### **81 A.H. — New Grand Hex**
+
+Grand Hex Selvandar Rhune dies of lung cancer.  
+Talios II appoints **Grand Hex Thamior Verden**, a reluctant but influential cleric.
+
+> **Thamior Verden:** _“A tyrant needs a priest. I shall be neither.”_
+
+---
+
+### **82 A.H.**
+
+Thamior quietly organizes a faction within the clergy critical of Talios II’s cruelty, but they stop short of open defiance.
+
+---
+
+### **83 A.H.**
+
+Nothing notable recorded beyond continued terror tactics, show trials, and propaganda.
+
+---
+
+### **84 A.H. — Scandal of the Emperor**
+
+Talios II fathers a child with a woman he refuses to marry, then has her executed. The clergy erupt in outrage, demanding repentance.
+
+> **Grand Hex Thamior:** _“Redemption begins where arrogance ends.”_
+
+---
+
+### **85 A.H. — Invention of the Sea Vessel & Orc Exile**
+
+Under pressure to show “holy innovation,” Talios II orders engineers to invent a floating device.  
+**The boat** is successfully created.  
+Talios II orders **all orc slaves** loaded onto ships and cast into the unknown ocean to eliminate them and their rebellions, unaware of other continents.
+
+> **Engineer Rethos Mal:** _“It floats because it must.”_
+
+---
+
+### **86 A.H.**
+
+Ships begin to be used for **fishing and short-range coastal trips**. Some see sea trade potential; others fear the unknown waters.
+
+---
+
+### **87 A.H.**
+
+Imperial terror continues; distant settlements are forced into harsher tithes to fund naval experiments.
+
+---
+
+### **88 A.H.**
+
+Nothing notably recorded beyond expanding coastal villages and improved docks.
+
+---
+
+### **89 A.H.**
+
+Initial scouting ventures hug the coastlines of Droskarin, mapping bays and inlets.
+
+---
+
+### **90 A.H. — Dominion of Droskarin**
+
+The Empire completes its conquest and control over **all of Droskarin**. Its rule is absolute but resented.
+
+> **Imperial Historian Valeth:** _“From desert to forest, the continent now wears a single crown.”_
+
+---
+
+### **91 A.H.**
+
+Orcs are presumed extinct or lost; no one expects to see them again. Naval attention wanes slightly.
+
+---
+
+### **92 A.H. — Discovery of Shersia**
+
+A fishing vessel spots an **orc ship** on the horizon. Talios II dispatches a scouting fleet and discovers **Shersia**.
+
+> **Captain Elrath:** _“The sea remembers what men try to forget.”_
+
+---
+
+### **93 A.H.**
+
+Imperial settlers land on Shersia, establishing the first coastal forts.
+
+---
+
+### **94 A.H.**
+
+Conflicts with surviving orc populations at sea are brief; the Empire has superior organization and numbers.
+
+---
+
+### **95 A.H.**
+
+Nothing major recorded beyond steady Shersian colonization efforts.
+
+---
+
+### **96 A.H.**
+
+Shersia is formally declared a frontier province of the Erulian Empire.
+
+---
+
+### **97 A.H.**
+
+Slave transport and penal exiles begin to be redirected to Shersia instead of internal camps.
+
+---
+
+### **98 A.H.**
+
+Cultural blending begins in small Shersian settlements, though heavily under imperial control.
+
+---
+
+### **99 A.H.**
+
+Nothing notably recorded. The Empire is stretched but stable, ruling through fear.
+
+---
+
+### **100 A.H.**
+
+A century has passed since Calados I took the crown. The Empire dominates **Droskarin and Shersia**, rules through terror under Talios II, and has unknowingly set the stage for future resistance and global entanglements.
+
+> **Anonymous Hexademic Scribe, 100 A.H.:**  
+> _“A hundred years of empire, and still the gods have not decided whether to bless it or break it.”_
 
 ## **Military of the Erulian Empire**
 
