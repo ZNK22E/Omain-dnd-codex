@@ -151,7 +151,7 @@ dist/
 
 This is currently served with Github Pages and will soon be migrated over to a dedicated VPS hosted by [Nathan K.](https://nkitch.com)
 
-Running a deploy.yml provided by [https://docs.astro.build/en/guides/deploy/github/](Astro Documentation)
+Running a deploy.yml provided by [Astro Documentation](https://docs.astro.build/en/guides/deploy/github/)
 
 ## 10. Git Workflow (Quick Rituals)
 
