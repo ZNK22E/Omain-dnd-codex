@@ -204,4 +204,4 @@ if you want to put yourself on here, feel free and make sure you have stated wha
 - **Nathan** > Web development. Brought the idea forward to create a website to log all our sessions which spiralled into what we have now, the "Codex".
 - **Robbie** > Character building and lore expansion.
 - **Matthew** > Lore expansion.
-- **Deakin* > Character Building and lore expansion.  
+- **Deakin** > Character Building and lore expansion.  
