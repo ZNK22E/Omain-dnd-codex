@@ -9,7 +9,10 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "The Grand Archives of Sacro Elcarion",
-      favicon: "/favicon.ico",
+      favicon: "/favicon.svg",
+      logo: {
+        src: "/src/assets/images/logo.svg",
+      },
       sidebar: [
         {
           label: "Sessions",
