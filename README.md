@@ -192,3 +192,11 @@ Submit a PR or open an issue. Collaboration is always welcome.
 ## 13. License
 
 This codex exists for storytelling, fun, and chaos. Use it, fork it, remix it.
+
+## Contributors
+
+List of everyone who has worked on the project, no matter the aspect, web development, lore writing/author and players. Everyone has made this possible.
+if you want to put yourself on here, feel free and make sure you have stated what you have done for the project.
+
+- **Edward** > Lore writer, creator of the Omain Campaign. The subsequent "Observer" (DM). Helped with web development and the mastermind behind Omain.
+- **Nathan** > Web development. Brought the idea forward to create a website to log all our sessions which spiralled into what we have now, the "Codex".
