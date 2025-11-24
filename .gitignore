@@ -12,6 +12,7 @@ dist/
 .env
 .env.*
 !.env.example
+.obsidian
 
 ### Logs
 npm-debug.log*
