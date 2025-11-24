@@ -531,183 +531,191 @@ This duality preserves balance between ancient wisdom and a living, multicultura
 
 Wars, tensions, treaties, crises, or events the party could get dragged into.
 
-## **Military system**
+## **Military of the Kingdom of Kelar (Uhtredic Reforms)**
+Under the regency of **Uhtred Ragnar**, Kelar’s military has undergone a structured reorganization aimed at strengthening the kingdom’s defensive capability while maintaining its long-standing policy of non-aggression. Uhtred’s doctrine emphasizes **discipline, coordinated regiments, and optimized battlefield roles** rather than brute force or expansionism.
 
-The military of Kelar is modest in size and rarely mobilized, but it is among the most strategically unique forces in Omain due to its access to dragonkin. Kelar does not engage in expansionist warfare and historically only fights when the **Draconic Covenant declares ancestral threat**, a decree invoked only in moments of existential danger.
-
-The military is structured primarily around **defense of mountainous territory**, coordinated infantry battalions, limited naval forces, and elite aerial units composed of dragons and dragonborn. While small compared to major global powers, Kelar’s ability to take vertical control of the battlefield grants it a tactical advantage unmatched outside Grantia.
-
----
-
-### **1. Military Size**
-
-Total dragonkin population in the world: **~13,000**
-
-- Some are young, elderly, or non-combatants
-    
-- Dragonborn are counted in this number
-    
-
-**Estimated combat-capable dragonkin:** ~7,000  
-(this includes ~3,000 dragons + ~4,000 dragonborn fighters)
-
-Mortal army (trained infantry, guards, scouts): ~120,000  
-Navy personnel: ~40,000  
-Support & logistics: ~30,000
-
-#### **📌 Total wartime forces**
-
-|Category|Count|
-|---|---|
-|Mortal Army|~120,000|
-|Navy|~40,000|
-|Dragonborn Fighters|~4,000|
-|Combat-Capable Dragons|~3,000|
-|Support Staff|~30,000|
-|**Total Mobilizable Forces**|**~190,000**|
-
-This places Kelar as **small but highly specialized**, with dragons as force multipliers—not mass armies.
+Kelar still avoids war whenever possible, but if conflict arises, the military is now prepared for rapid, tactical, and layered defense. The rest of the world views Uhtred’s restructuring as Kelar’s shift toward **strategic readiness**, not militarization.
 
 ---
 
-### **2. Military Structure (Mortal Forces)**
+### **I. Ground Forces Overview**
 
-The mortal army operates much like a medieval host with clear ranks and battlefield hierarchy.
+Uhtred’s ground military is divided into **four primary regiments**, each designed to complement the others in a unified battle strategy:
 
-|Rank|Role|
-|---|---|
-|**Crown-Commander**|Leads forces on behalf of monarch|
-|**Peak Marshals**|Regional generals, command mountain fronts|
-|**Cliff-Captains**|Lead battalions|
-|**Wing-Leaders**|Direct small units in high-altitude combat|
-|**Soldiers**|Infantry, archers, spearmen, escorts|
+1. **Fortification Regiment**
+    
+2. **Close Quarters Regiment**
+    
+3. **Fast Attack Regiment**
+    
+4. **Archery Regiment**
+    
+
+Together, these four units form a **cyclical combat system** of shield, spear, strike, and support—designed to withstand sieges, break enemy lines, and exploit weaknesses with precision.
+
+### **1. Fortification Regiment**
+
+#### _“The Shield of Kelar”_
+
+The largest of all regiments, the Fortification forces form the backbone of Kelar’s defensive strategy. Uhtred expanded this regiment significantly, believing that Kelar’s greatest strength lies in **endurance and terrain**, not aggression.
+
+#### **Primary Roles**
+
+- **Counter-siege warfare** against enemy engines and artillery
+    
+- **Shield-wall formation** forming the first defensive line
+    
+- **Blockades** to choke enemy advance through mountain passes
+    
+- **Rapid construction of cover**, barricades, and emergency fortifications
+    
+- **Filling structural gaps** created by siege weaponry
+    
 
 #### **Combat Style**
 
-- Spear and shield formations
-    
-- Ambushes in ravines and mountain passes
-    
-- High-elevation archer ambushes
-    
-- Fast-strike retreats coordinated with dragons
-    
+Fortification troops are heavily armored and trained to endure prolonged engagements. They advance slowly and deliberately, absorbing enemy pressure while other regiments maneuver behind them.
 
-Kelar fights to **delay, exhaust, and deter**, not destroy.
+They are the **first in, last out**, and their discipline is unmatched.
 
 ---
 
-### **3. Aerial Forces (Dragons & Dragonborn)**
+### **2. Close Quarters Regiment**
 
-Kelar is one of only two nations with a true air force.
+#### _“The Spear of Kelar”_
 
-#### **No Rank Structure**
+If Fortification is the shield, **Close Quarters** is the spear that strikes behind it. This regiment consists of Kelar’s fiercest melee specialists and is second only to the archers in size.
 
-Dragons do not follow military ranks or human command. They fight:
+#### **Internal Divisions**
 
-- under ancestral instinct
+- **Dual-Wielders** — fast, aggressive frontline breakers
     
-- through telepathic lineage bonds
+- **Weapon + Shield Fighters** — defensive duelists ideal for narrow terrain
     
-- guided by the Covenant, not generals
+- **Single-Weapon Specialists** — high precision, trained for rapid kill strikes
+    
+- **Berserkers** — extremely rare, used _only_ in last-resort situations
     
 
-Dragonborn coordinate with mortal forces, acting as:
+#### **Dual Role**
 
+1. **Primary combat regiment**, performing the bulk of hand-to-hand fighting
+    
+2. **Military instructors** who train all other regiments in:
+    
+    - sword, axe, hammer, and club combat
+        
+    - striking vital points
+        
+    - close-range maneuvering
+        
+    - maintaining discipline in melee
+        
+
+The Close Quarters regiment forms Kelar’s **killing edge**, advancing when Fortification opens a breach.
+
+---
+
+### **3. Fast Attack Regiment**
+
+#### _“The Wind of Kelar”_
+
+This is Kelar’s smallest but most elite regiment, inspired by the fast-strike tactics of ancient mounted tribes. They function as **rapid shock units**, specializing in hit-and-run warfare.
+
+#### **Composition**
+
+- Exclusively composed of **the fastest dragonborn**, selected for agility and endurance
+    
+- Equipped with **light armor** to maximize speed
+    
+- Trained to operate independently or in pairs
+    
+
+#### **Combat Style**
+
+- **In, strike, out** — never holding ground longer than a heartbeat
+    
+- **Flanking attacks** that collapse enemy sides
+    
+- **Drive-by slashing** as they pass through exposed weaknesses
+    
+- **Harassing retreating forces**
+    
+
+Their job is not to break the enemy but to **destroy their cohesion**, causing confusion and panic.
+
+---
+
+### **4. Archery Regiment**
+
+#### _“The Rain of Kelar”_
+
+The archers provide ranged superiority and battlefield control. They are similar in number to the Close Quarters regiment and operate closely with both Fortification and Fast Attack units.
+
+#### **Primary Roles**
+
+- Fire volleys **behind Fortification blockades**
+    
+- Target key enemy assets before melee begins
+    
+- Disorient and thin advancing formations
+    
+- Work alongside Fast Attack units to finish unshielded survivors
+    
+
+#### **Supply Structure**
+
+The Archery Regiment includes:
+
+- **Primaries:** trained bowmen
+    
+- **Range-Runners:** members whose sole duty is to maintain arrow supply, keep quivers filled, and retrieve spent ammunition
+    
+
+Archers are the **first force to inflict damage** and the ones who decide the shape of the battle.
+
+---
+
+### **Unified Battle Doctrine**
+
+Uhtred’s reforms created a **rotational battlefield system**, each regiment supporting the others:
+
+1. **Fortification** establishes the defensive front.
+    
+2. **Archers** weaken and disorient the enemy.
+    
+3. **Close Quarters** strikes decisively once the enemy is destabilized.
+    
+4. **Fast Attack** flanks, harasses, and eliminates fleeing or exposed units.
+    
+
+This system ensures Kelar can:
+
+- Hold ground indefinitely
+    
+- Punish aggressive enemies
+    
+- Win battles without needing large armies
+    
+- Maintain defensive supremacy without offensive ambition
+    
+
+---
+
+### **Kelar’s Air Force**
+
+Although not part of the four ground regiments, Kelar’s greatest advantage remains the **dragon air force**, used only under Covenant decree. Dragons have **no ranks** and fight according to age, lineage, and ancestral instinct, acting as:
+
+- aerial siege breakers
+    
 - scouts
     
-- aerial tacticians
+- shock support
     
-- magical or ritual combatants
-    
-- messengers between wings and generals
+- guardians of sacred mountains
     
 
-#### **Dragons in Warfare**
-
-|Unit Type|Role|
-|---|---|
-|**Ancient Dragons**|Strategic attacks, siege destruction|
-|**Lesser Dragons**|Fast-moving assault, shock cavalry|
-|**Dragonborn Wings**|Precision coordination, small-unit strikes|
-
-Dragons are **weapons of last resort**—losing one is losing a bloodline.
-
----
-
-### **4. Naval Forces**
-
-Kelar maintains a small but functional navy.
-
-|Metric|Value|
-|---|---|
-|Ships|~75 vessels|
-|Warships|~20|
-|Personnel|~40,000|
-
-#### **Strengths**
-
-- Coastal defense
-    
-- Fast deployment between mountain coasts
-    
-- Aerial cover from cliffs
-    
-
-#### **Weaknesses**
-
-- No large siege fleets
-    
-- Cannot project force overseas
-    
-- Not designed for naval conquest
-    
-
----
-
-### **5. Combat Doctrine**
-
-Kelar’s doctrine centers on **defending sacred land, not winning territory.**
-
-|Principle|Meaning|
-|---|---|
-|**Preserve bloodlines**|Dragons only fight if existence threatened|
-|**War is sacred**|Violence is ritual, not political|
-|**Mountains are weapons**|Terrain does most of the killing|
-|**Strike and withdraw**|No prolonged offensive campaigns|
-
-Winning means **surviving while the enemy cannot advance.**
-
----
-
-### **6. When Kelar Actually Goes to War**
-
-Only when:
-
-- ancestral mountains are invaded
-    
-- dragons or bloodlines are harmed
-    
-- the Covenant issues a War Decree
-    
-
-These events are _borderline mythical_ in rarity.
-
----
-
-### **Summary**
-
-|Attribute|Status|
-|---|---|
-|Total Military Size|**~190,000**|
-|Combat Dragons|~3,000|
-|Dragonborn Troops|~4,000|
-|Army Strength|Moderate, highly tactical|
-|Navy Strength|Small, defensive|
-|Air Force|Rare, powerful, only rivaled by Grantia|
-|Philosophy|Defense of heritage, not conquest|
-
-Kelar is less a militaristic nation and more a **fortress of ancient blood**, protected not by numbers, but by altitude, lineage, and dragons.
+They remain Kelar’s ultimate deterrent—rare to deploy, devastating when used.
 
 ## **Notable figures**
 

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/locations/countries/kingdom-of-kelar.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -185,10 +185,12 @@
   },
   "active": "1d89ee39d58fd3c0",
   "lastOpenFiles": [
+    "docs/locations/countries/the-erulian-empire.md",
+    "docs/lore/omain/Omain.md",
+    "docs/lore/omain/_template-omain-lore.md",
+    "docs/locations/countries/kingdom-of-kelar.md",
     "docs/locations/countries/_template-country.md",
     "docs/locations/countries/kingdom-of-ka.md",
-    "docs/locations/countries/kingdom-of-kelar.md",
-    "docs/locations/countries/the-erulian-empire.md",
     "docs/locations/countries/The Erulian Empire.md",
     "docs/locations/countries/the erulian empire.md",
     "docs/locations/countries/Kingdom of Kelar.md",
