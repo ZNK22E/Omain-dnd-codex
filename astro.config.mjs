@@ -3,8 +3,8 @@ import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 
 export default defineConfig({
-  site: "https://ZNK22E.github.io/",
-  base: "/Omain-dnd-codex",
+  site: "omaincodex.co.uk",
+  base: "/",
   output: "static",
   integrations: [
     starlight({
