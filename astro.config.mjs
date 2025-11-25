@@ -3,7 +3,7 @@ import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 
 export default defineConfig({
-  site: "omaincodex.co.uk",
+  site: "https://omaincodex.co.uk",
   base: "/",
   output: "static",
   integrations: [
