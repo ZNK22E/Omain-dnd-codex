@@ -159,7 +159,7 @@ The nations of **Omain** form a complex geopolitical landscape shaped by ancient
 
 Grantia is **intentionally excluded** from all rankings due to its unique draconic population and its non-participation in global economic or military systems.
 
-### 🏛️ **Recognized Major Nations of Omain**
+### **Recognized Major Nations of Omain**
 
 - **Erulian Empire**
     
@@ -189,7 +189,7 @@ These nations collectively shape the world’s diplomacy, trade, warfare, and cu
 
 ---
 
-### 💰 **World Wealth Ranking**
+### **World Wealth Ranking**
 
 #### _Ranked by total economic output, resource control, industry, and global trade presence_
 
@@ -211,7 +211,7 @@ _(Grantia exempt)_
 
 ---
 
-### ⚔️ **World Military Ranking**
+### **World Military Ranking**
 
 #### _Ranked by total force size, organization, technology, magical capability, and strategic effectiveness_
 
@@ -282,7 +282,7 @@ Magic plays a foundational role in Omain’s culture and infrastructure, though 
 
 ---
 
-### 🛡️ **The Exception: Grantia**
+### **The Exception: Grantia**
 
 **Grantia** stands alone as an anomaly in Omain’s magic–technology balance.
 
@@ -342,7 +342,7 @@ Because of these restrictions:
 
 ---
 
-### ⚔️ **Summary**
+### **Summary**
 
 |Field|State in Omain|
 |---|---|
