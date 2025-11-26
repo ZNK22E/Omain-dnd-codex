@@ -7,6 +7,10 @@ influence: "local" # local | regional | empire-wide
 draft: true
 ---
 
+import DynamicBreadcrumb from "../../../../components/DynamicBreadcrumb.astro";
+
+<DynamicBreadcrumb />
+
 ## Overview
 
 Core identity of the faith and what it values.

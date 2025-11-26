@@ -10,6 +10,10 @@ firstSeenIn: "Session XX — Title"
 draft: true
 ---
 
+import DynamicBreadcrumb from "../../../../components/DynamicBreadcrumb.astro";
+
+<DynamicBreadcrumb />
+
 ## Overview
 
 Headline: what power they hold and why they matter.

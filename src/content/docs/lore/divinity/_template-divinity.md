@@ -6,6 +6,10 @@ category: "divinity"
 draft: true
 ---
 
+import DynamicBreadcrumb from "../../../../components/DynamicBreadcrumb.astro";
+
+<DynamicBreadcrumb />
+
 ## Overview
 
 High-level explanation of the divine structure in this context.

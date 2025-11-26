@@ -10,6 +10,10 @@ factions:
 draft: true
 ---
 
+import DynamicBreadcrumb from "../../../../components/DynamicBreadcrumb.astro";
+
+<DynamicBreadcrumb />
+
 ## Overview
 
 What the conflict is about in one short paragraph.

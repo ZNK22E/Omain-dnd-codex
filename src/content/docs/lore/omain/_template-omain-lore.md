@@ -6,6 +6,10 @@ category: "world"
 draft: true
 ---
 
+import DynamicBreadcrumb from "../../../../../../components/DynamicBreadcrumb.astro";
+
+<DynamicBreadcrumb />
+
 ## Ages & Eras
 
 Short breakdown of major historical periods.

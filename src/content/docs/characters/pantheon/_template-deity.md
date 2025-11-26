@@ -10,6 +10,10 @@ primaryReligion: "Name of main church/order"
 draft: true
 ---
 
+import DynamicBreadcrumb from "../../../../components/DynamicBreadcrumb.astro";
+
+<DynamicBreadcrumb />
+
 ## Myth & Origin
 
 How this deity came to be, in-world.

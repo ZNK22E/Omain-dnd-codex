@@ -8,6 +8,10 @@ population: "Approximate population (optional)"
 draft: true
 ---
 
+import DynamicBreadcrumb from "../../../../components/DynamicBreadcrumb.astro";
+
+<DynamicBreadcrumb />
+
 ## Overview
 
 What this place is known for and what it feels like to be there.

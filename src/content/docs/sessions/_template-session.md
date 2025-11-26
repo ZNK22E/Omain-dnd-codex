@@ -13,6 +13,10 @@ players:
 draft = true:
 ---
 
+import DynamicBreadcrumb from "../../../../components/DynamicBreadcrumb.astro";
+
+<DynamicBreadcrumb />
+
 ## Summary
 
 1–3 paragraphs of what happened.

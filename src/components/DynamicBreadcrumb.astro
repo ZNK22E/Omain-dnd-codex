@@ -1,0 +1,83 @@
+---
+---
+<nav aria-label="Breadcrumb" class="breadcrumb-trail">
+  <span id="breadcrumb-output"></span>
+</nav>
+
+<script is:inline>
+(function () {
+  const STORAGE_KEY = "omc-nav-trail";
+  const MAX_ENTRIES = 5;
+
+  const main =
+    document.querySelector("main") ||
+    document.querySelector(".sl-content") ||
+    document.body;
+
+  const heading = main.querySelector("h1") || document.querySelector("h1");
+  const title = heading ? heading.textContent.trim() : document.title.trim();
+
+  const path = window.location.pathname;
+
+  let trail;
+  try {
+    trail = JSON.parse(localStorage.getItem(STORAGE_KEY) || "[]");
+  } catch {
+    trail = [];
+  }
+
+  // Remove duplicates
+  trail = trail.filter((entry) => entry.path !== path);
+
+  // Add current page to end
+  trail.push({ path, title });
+
+  // Trim to maximum entries
+  if (trail.length > MAX_ENTRIES) {
+    trail = trail.slice(trail.length - MAX_ENTRIES);
+  }
+
+  // Save
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(trail));
+
+  // Render output
+  const output = document.getElementById("breadcrumb-output");
+  if (!output) return;
+
+  output.innerHTML = trail
+    .map((item, i) => {
+      const isLast = i === trail.length - 1;
+      return isLast
+        ? `<span aria-current="page">${item.title}</span>`
+        : `<a href="${item.path}">${item.title}</a>`;
+    })
+    .join(' <span class="sep">›</span> ');
+})();
+</script>
+
+<style>
+  .breadcrumb-trail {
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+    color: var(--sl-color-text-muted);
+  }
+
+  .breadcrumb-trail a {
+    text-decoration: none;
+    color: var(--sl-color-text-accent);
+  }
+
+  .breadcrumb-trail a:hover {
+    text-decoration: underline;
+  }
+
+  .breadcrumb-trail [aria-current="page"] {
+    font-weight: 600;
+    color: var(--sl-color-text);
+  }
+
+  .sep {
+    opacity: 0.5;
+    padding: 0 0.25rem;
+  }
+</style>

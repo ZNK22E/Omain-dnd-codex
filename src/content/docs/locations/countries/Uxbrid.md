@@ -8,6 +8,10 @@ region: Virelya
 draft: true
 ---
 
+import DynamicBreadcrumb from "../../../../components/DynamicBreadcrumb.astro";
+
+<DynamicBreadcrumb />
+
 ## **Introduction**
 ### **At a Glance**
 
