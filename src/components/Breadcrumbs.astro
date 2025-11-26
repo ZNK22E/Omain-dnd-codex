@@ -1,0 +1,85 @@
+---
+interface Props {
+  path: string;
+}
+
+const { path } = Astro.props as Props;
+
+// e.g. "/lore/omain/continents/virelya/"
+const segments = path.split("/").filter(Boolean);
+
+// Build cumulative links
+let crumbs: { href: string; label: string }[] = [];
+let currentPath = "";
+
+for (const segment of segments) {
+  currentPath += `/${segment}`;
+  const label =
+    segment.charAt(0).toUpperCase() +
+    segment.slice(1).replace(/-/g, " ");
+
+  crumbs.push({
+    href: currentPath + "/", // always trailing slash
+    label,
+  });
+}
+
+// Add Home at the start
+crumbs = [{ href: "/", label: "Home" }, ...crumbs];
+---
+
+<nav aria-label="Breadcrumb" class="breadcrumb">
+  <ol>
+    {crumbs.map((crumb, index) => (
+      <li>
+        {index < crumbs.length - 1 ? (
+          <a href={crumb.href}>{crumb.label}</a>
+        ) : (
+          <span aria-current="page">{crumb.label}</span>
+        )}
+      </li>
+    ))}
+  </ol>
+</nav>
+
+<style>
+  .breadcrumb {
+    margin-bottom: 1rem;
+    font-size: 0.85rem;
+    color: var(--sl-color-text-muted);
+  }
+
+  .breadcrumb ol {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .breadcrumb li::after {
+    content: "›";
+    margin-left: 0.5rem;
+    opacity: 0.5;
+  }
+
+  .breadcrumb li:last-child::after {
+    content: "";
+    margin: 0;
+  }
+
+  .breadcrumb a {
+    text-decoration: none;
+    color: var(--sl-color-text-accent);
+  }
+
+  .breadcrumb a:hover {
+    text-decoration: underline;
+  }
+
+  .breadcrumb [aria-current="page"] {
+    font-weight: 600;
+    color: var(--sl-color-text);
+  }
+</style>
