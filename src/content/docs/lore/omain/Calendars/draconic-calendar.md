@@ -1,0 +1,106 @@
+---
+title: Draconic Calendar
+description: The calendar used by Dragons.
+type: lore
+category: Calendar
+draft: false
+---
+
+## **The Draconic Calendar**
+
+### _Official Chronometric System of the Dragons of Omain_
+
+The **Draconic Calendar** is one of the oldest chronological systems in Omain, predating most humanoid civilizations. Unlike Erulian timekeeping—rooted in religion, holidays, and social ritual—the Draconic system is stark, mathematical, and **devoid of ceremony**.
+
+Dragons do not celebrate festivals, nor do they mark sentimental dates. Their calendar is a pragmatic tool, designed for:
+
+- recording lineage
+    
+- measuring cosmic shifts
+    
+- elemental weather cycles
+    
+- synchronizing inter-clan migrations
+    
+- tracking hibernation periods
+    
+
+The Draconic year contains **336 days**, divided into **12 months of 28 days**, each consisting of **4 identical weeks** of **7 days**.
+
+---
+
+## **The Three Draconic Seasons**
+
+Dragons divide the year into **three great seasons**, each representing a long elemental cycle rather than a climatic one.
+
+All season names are derived from ancient Draconic language roots.
+
+|**Season**|**Duration**|**Meaning**|
+|---|---|---|
+|**1. Fyrhune**|Months 1–4|Season of Heat, Fire, and Growth — wyrmlings commonly hatch during this time|
+|**2. Skathros**|Months 5–8|Season of Shadows, Stillness, and Deep Thought — dragons retreat into contemplation|
+|**3. Vargun**|Months 9–12|Season of Cold, Hunger, and Vigilance — migration and territorial disputes peak|
+
+Unlike mortals, dragons treat seasons as **cosmic cycles**, not agricultural ones.
+
+---
+
+## **The Twelve Draconic Months (28 Days Each)**
+
+Each month’s name originates from the ancient Draconic tongue, referencing elemental, cosmic, or ancestral phenomena.
+
+|**#**|**Month Name**|**Pronunciation**|**Meaning**|
+|---|---|---|---|
+|**1**|**Ignivar**|_IG-nih-var_|“First Flame” — new cycle’s ignition|
+|**2**|**Rhazek**|_RHAH-zek_|“Crackling Ember”|
+|**3**|**Therundal**|_THEH-run-dahl_|“Warming Wind”|
+|**4**|**Solkrath**|_SOHL-krath_|“Peak Heat”|
+|**5**|**Umbrek**|_UHM-brek_|“Deep Shade”|
+|**6**|**Vorthun**|_VOR-thoon_|“Silent Watch”|
+|**7**|**Draelith**|_DRAY-lith_|“Hidden Mind”|
+|**8**|**Kyrval**|_KEER-val_|“Coiled Rest”|
+|**9**|**Frosten**|_FROST-en_|“First Cold”|
+|**10**|**Gravenholt**|_GRAY-ven-holt_|“Stone Hunger”|
+|**11**|**Skarith**|_SCAH-rith_|“Sharp Wind”|
+|**12**|**Nyrgul**|_NEER-gool_|“Last Vigil” — closing of the cycle|
+
+All names resonate with **draconic philosophy, elemental motifs, and cosmic self-awareness**.
+
+---
+
+## **The Draconic Week — The Sevenfold Cycle**
+
+Dragons recognize a **7-day week**, known as the **Sarthun**, or “Cycle of Seven”.  
+Each day corresponds to a state of being in draconic existence.
+
+|**Day #**|**Name**|**Pronunciation**|**Meaning**|
+|---|---|---|---|
+|**1**|**Rathun**|_RAH-thoon_|Day of Strength — physical renewal|
+|**2**|**Velkhar**|_VEL-khar_|Day of Flight — exploration|
+|**3**|**Mystral**|_MEE-stral_|Day of Mind — mental honing|
+|**4**|**Skareth**|_SKAR-eth_|Day of Silence — meditation|
+|**5**|**Thoryn**|_THOR-in_|Day of Fire — practice of breath and elemental mastery|
+|**6**|**Zavrun**|_ZAV-roon_|Day of Hoard — tending to treasure and legacy|
+|**7**|**Ulthrax**|_OOL-thrax_|Day of Vigil — watching territory and horizons|
+
+Dragons do not “rest”—even Ulthrax, the closest equivalent, is a day of territorial watch.
+
+---
+
+## **Year Structure Summary**
+
+- **12 months**
+    
+- **28 days per month**
+    
+- **336 days per year**
+    
+- **4 weeks per month**
+    
+- **7 days per week**
+    
+- **3 seasons**, each lasting 112 days
+    
+
+The Draconic Calendar is symmetrical and intentionally rigid, mirroring the draconic worldview:  
+**order, endurance, and cosmic permanence.**

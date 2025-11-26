@@ -8,11 +8,14 @@ region: Droskarin
 draft: false
 ---
 
-![Flag of Kelar](../../../../assets/images/erulian-emp/emp-flag.png)
+
 
 ## **Introduction**
+![Flag of Erule](../../../../assets/images/erulian-emp/emp-flag.png)
+(_Flag of the Erulian Empire_)
 
 The **Erulian Empire** is the largest and oldest known political state in Omain, encompassing **19.0 million square kilometers** including its mainland territory on Droskarin and full control of the Shersian Archipelago. Originating from the tribal human culture of the **Erulians** in the region now known as **Erule**, the Empire has historically served as the dominant cultural, political, and religious force across the world.
+
 
 ### **At a Glance**
 
@@ -82,14 +85,146 @@ An extensive grassland region covering much of the empire’s agricultural core.
 
 ## **Politics & Factions**
 
-The modern Erulian Empire is an **authoritarian state** ruled by **Empress Erolith I**, who holds total legal, political, military, and religious authority. Centralized power structures, strict imperial law, and institutional dominance reinforce the empire’s continued relevance, despite reduced territorial size.
+### **Overview**
 
-- **Current size:** **19.0 million km²**
-- **Status:** Smallest territorial extent in imperial history
-- **Global role:** Still the dominant cultural and geopolitical power
+The **Erulian Empire** is governed by an **absolute monarchy**, the oldest and most stable ruling institution on Omain. Since its founding in **0 A.H.** by **King Calados I**, the Imperial Crown has passed **unbroken** through the **Aquabrand bloodline**, making it the **longest continuous hereditary lineage** in recorded world history.
 
-The empire remains heavily centralized around Erule, its capital and spiritual birthplace.
+Political authority in the empire is characterized by an intricate balance between the **imperial throne** and the **Hexadem**, the state religion. While the emperor or empress wields ultimate authority in all matters of state, law, and military force, their decisions are traditionally shaped—and at times constrained—by the interpretations and demands of the Hexademic clergy.
 
+---
+
+### **The Imperial Lineage**
+
+The Erulian political structure revolves entirely around the sanctity of the **Aquabrand bloodline**.
+
+- The **Crown of Erule** is spiritually and legally bound to the **House Aquabrand**, the founding dynasty.
+    
+- The **Hexadem explicitly forbids** any individual outside the Aquabrand bloodline from taking the throne.
+    
+- This rule has never been violated, and no foreign or non-Aquabrand ruler has ever held power in the empire.
+    
+
+This absolute restriction has fortified the political identity of Erule for over **1,500 years**, shaping its culture around dynastic continuity and divine legitimacy.
+
+---
+
+### **The Monarch**
+
+#### **Authority**
+
+The sitting monarch is the **undisputed supreme authority** within the empire:
+
+- Commands the military
+    
+- Dictates law
+    
+- Oversees all regional governance
+    
+- Controls foreign relations
+    
+- Holds the right to overrule the Hexadem
+    
+
+Despite this absolute power, Erulian rulers often remain deeply entwined with the religious hierarchy and rarely act without clergy involvement. This blend of divine guidance and personal authority forms the backbone of Erulian political tradition.
+
+### **Religious Influence**
+
+The monarch is expected—though not commanded—to:
+
+- Maintain strong ties to the Hexadem
+    
+- Seek counsel from the **Grand Hex**, the leader of the faith
+    
+- Rule in accordance with the values of their **baptismal deity**
+    
+
+Monarchs who cooperate closely with the church often enjoy stability. Those who defy it, like **Emperor Talios II**, typically trigger internal unrest, clerical resistance, and political fragmentation.
+
+---
+
+### **The Role of the Hexadem**
+
+Although not a ruling body, the Hexadem acts as the **spiritual regulatory power** of the empire. Its influence includes:
+
+- Legitimizing rulers
+    
+- Guiding moral and religious conduct
+    
+- Advising on matters of war and diplomacy
+    
+- Interpreting divine will through the **Seven Books**
+    
+
+The Hexadem cannot depose an emperor directly, but their voice can sway public sentiment, manipulate political factions, and dramatically shift the course of imperial policy.
+
+### **The Grand Hex**
+
+The religious head of the Hexadem holds immense advisory authority and is often the second-most influential figure in the empire.
+
+The current Grand Hex is:
+
+### **Grand Hex Selythar Morvath**
+
+_An austere and ascetic scholar known for strict adherence to the Book of Tiamat and unwavering loyalty to Empress Erolith I._
+
+---
+
+### **Current Era: The Reign of Empress Erolith I**
+
+Empress **Erolith I Aquabrand** ascended to the throne at **age 19**, after her father was assassinated by **King Marek of the Kingdom of Ka** in the infamous duel known as **“The Droplet and the Flame.”** This event triggered a surge of imperial nationalism and cemented her early rise as both a symbol of martyrdom and divine vengeance.
+
+#### **Erolith I’s Political Character**
+
+- Devoutly faithful
+    
+- Baptised under **Tiamat, Goddess of Reality**
+    
+- Actively follows Tiamat’s doctrines of order, dominance, and clarity
+    
+- Rarely makes a major decision without consulting Grand Hex Selythar
+    
+
+Her reign is marked by:
+
+- A return to **hardline Hexademic orthodoxy**
+    
+- Strengthened religious institutions
+    
+- Increased scrutiny of dissent
+    
+- Antagonistic foreign policy toward Ka
+    
+- Renewed imperial cohesion after decades of instability
+    
+
+> **Erolith I:** _“Reality bends only to the strong. I shall ensure Erule remains unbreakable.”_
+
+---
+
+### **Political Structure Summary**
+
+|**Office / Entity**|**Role**|
+|---|---|
+|**Emperor / Empress (Aquabrand Line)**|Absolute sovereign. Supreme military, judicial, and political authority.|
+|**Grand Hex**|Spiritual leader of the Hexadem; main counselor to the throne; guardian of doctrine.|
+|**Hexademic Clergy**|Interprets the Seven Books, influences public morality, controls rites and baptisms.|
+|**Imperial Court**|Nobles, advisors, scholars, and military strategists; no real political power but significant cultural influence.|
+|**Provincial Governors**|Enforce imperial law, collect taxes, and maintain order in distant regions.|
+
+---
+
+### **Political Culture**
+
+The political identity of the Erulian Empire is defined by three ideological pillars:
+
+1. **Divine Lineage** — The Aquabrand bloodline is seen as chosen by the gods.
+    
+2. **Hexademic Legitimacy** — The faith reinforces authority and shapes imperial philosophy.
+    
+3. **Absolute Rule** — Power is centralized, uncompromised, and historically stable.
+    
+
+Erule has never known a government outside monarchy, nor does it culturally imagine one.
 ## **Culture**
 
 The culture of the **Erulian Empire** is characterized by a blend of ancient tribal lineage, imperial tradition, religious doctrine, and multicultural integration resulting from centuries of expansion. Originating from the ancestral Erulian peoples of the Erulian Plains, imperial culture has evolved into a refined, hierarchical, and tradition-driven society that places strong emphasis on heritage, faith, and national prestige.

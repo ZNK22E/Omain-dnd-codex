@@ -1,0 +1,90 @@
+---
+title: Virelya
+description: Western continent
+type: lore
+category: continent
+draft: false
+---
+## **(Western Continent)**
+
+**Virelya** is the western of the two major continents of Omain, covering approximately **38.6 million square kilometres**. Although slightly smaller than the Eastern Continent, Virelya hosts significant cultural, ecological, and historical diversity. The continent contains five modern nations and several prominent geological regions including notable mountain systems and major freshwater networks.
+
+---
+
+### **1. Overview**
+
+Historically home to numerous tribal societies representing diverse races and cultures, Virelya existed independently and largely undocumented by foreign civilizations until the arrival of the **Erulian Empire** in **134 A.H.**, when an imperial expedition formally charted its coasts. This event marked the beginning of Virelya’s recorded political history and initiated the Erulian era of continental expansion.
+
+Despite later urbanization and state formation, many indigenous cultures continue to persist across the continent, particularly in frontier regions.
+
+---
+
+### **2. Political Divisions**
+
+Virelya is presently divided into **five sovereign nations**, each varying significantly in landmass, governance, and development.
+
+Based on its total land area, the continental size is provisionally distributed as follows:
+
+|Country|Relative Size|Approx. Area (km²)|Notes|
+|---|---|---|---|
+|**Uxbrid**|Largest|**15.2 million km²**|Dominates central and northern landmass.|
+|**Thaxted**|Medium–Large|**9.1 million km²**|Borders the Western Dragon Mountains.|
+|**Garenia**|Medium|**7.6 million km²**|Known for volcanic terrain and cascades.|
+|**Hatland**|Medium–Small|**5.4 million km²**|Hosts the Asahe Mountain Range.|
+|**Grantia**|Smallest|**1.3 million km²**|Coastal nation with limited territory.|
+
+_These values reflect proportional regional influence rather than historical claims._
+
+---
+
+### **3. History**
+
+#### **Early Inhabitants**
+
+Before imperial contact, Virelya was home to numerous tribal confederations, nomadic groups, and early city-states belonging to varied races and species. Their historical development is often fragmented as most recorded accounts originate after imperial arrival.
+
+#### **“Discovery” by the Erulian Empire**
+
+- **Year of Contact:** 134 A.H.
+    
+- **Event:** First Erulian exploratory expedition
+    
+- **Outcome:** Initiated continental mapping and led to overseas expansion of the Erulian Empire
+    
+
+Although widely referred to as the continent’s "discovery," this term primarily reflects Erulian historiography and is debated by scholars studying indigenous civilizations.
+
+---
+
+### **4. Notable Geological Features**
+
+#### **Western Dragon Mountains**
+
+A major mountain chain forming the natural border between **Thaxted** and **Hatland**. Known for steep volcanic ridges, draconic folklore, and difficult overland crossings.
+
+#### **Asahe Mountain Range**
+
+Located entirely within **Hatland**, the Asahe Range defines much of the nation’s interior and influences regional climate. It contains several high-altitude valleys and mineral-rich slopes.
+
+#### **Lakes of Talios**
+
+A collection of large freshwater lakes situated in **northern Uxbrid**. They serve as major ecological hubs, supporting dense forest biomes and trade networks across the northern frontier.
+
+#### **Orcish Cascades**
+
+A series of rugged cliffs, steppe plateaus, and cascading waterfalls in **Garenia**. The terrain is historically associated with orcish migrations and remains sparsely settled due to environmental difficulty.
+
+---
+
+### **5. Summary**
+
+Virelya is defined by:
+
+- **Five sovereign nations with diverse territorial scales**
+    
+- **A history shaped by indigenous cultures and later imperial contact**
+    
+- **Major mountain ranges and distinctive freshwater and cliff systems**
+    
+
+As one of Omain’s primary landmasses, Virelya continues to serve as a central region of cultural exchange, continental politics, and ecological significance.

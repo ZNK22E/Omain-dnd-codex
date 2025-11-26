@@ -11,6 +11,7 @@ draft: false
 ## **Introduction**
 
 ![Flag of Ka](../../../../assets/images/ka/ka-flag.png)
+(_Flag of Ka_)
 
 The **Kingdom of Ka** is a sovereign nation on the eastern continent of Droskarin, known historically as the former region of **Bolborkia**, homeland of the human Bolborkian tribes. Once conquered and absorbed by [[the-erulian-empire]] in **74 A.H.** under Emperor Talios I, the region later broke away and reestablished independence in **516 A.H.** following a successful uprising led by **Joriel I**. The nation was renamed the _Kingdom of Ka_ by its most recent monarch, **King Marek I**, after himself and the capital city. Following Marek’s death, the kingdom is currently governed by a ruling council, awaiting the emergence of a legitimate heir.
 

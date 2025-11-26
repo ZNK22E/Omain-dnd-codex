@@ -8,9 +8,11 @@ region: Droskarin
 draft: false
 ---
 
-![Flag of Kelar](../../../../assets/images/kelar/kelarian-flag.png)
+
 
 ## **Introduction**
+![Flag of Kelar](../../../../assets/images/kelar/kelarian-flag.png)
+(_Flag of Kelar_)
 
 ### **At a Glance**
 
