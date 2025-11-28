@@ -14,26 +14,30 @@ import DynamicBreadcrumb from "../../../../components/DynamicBreadcrumb.astro";
 
 <DynamicBreadcrumb />
 
-## Overview
+## **Overview****
+
 
 Headline: what power they hold and why they matter.
 
-## Appearance
+## **Appearance**
 
 What people notice first about them.
 
-## Personality
+## ****Personality**
 
 Public face vs private behaviour, fears, flaws.
 
-## Influence & Resources
+## ****Influence & Resources**
 
 What they can command: troops, money, information, magic, etc.
 
-## Goals
+## **Goals**
 
 What they want and what they’re willing to do to get it.
 
-## Secrets
+## **Events**
+
+
+## **Secrets**
 
 Things the players don’t know (yet).
