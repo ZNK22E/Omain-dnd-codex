@@ -1,0 +1,1739 @@
+---
+title: "Holy Hexadem"
+description: "Holy Book for the Hexadem"
+type: "Holy Book"
+deity: "Hexadem"
+influence: World Wide
+draft: false
+---
+
+import DynamicBreadcrumb from "../../../../components/DynamicBreadcrumb.astro";
+
+<DynamicBreadcrumb />
+
+## Overview
+
+_The Sacred Book of the Six_
+
+**The Hexadem** is the central holy scripture of the world’s most widespread religion, chronicling the divine history, cosmology, laws, and revelations of the Six Gods who sustain Omain. Compiled more than fifteen centuries ago by **the Seven Prophets**, the book unifies their individual writings, visions, and pilgrimages into a single sacred volume. For most cultures—especially within the Erulian Empire—the Hexadem is considered the authoritative account of divine truth.
+
+The work is divided into **seven books**, each written by a prophet guided by one of the gods, culminating in the revelations of Joratho Vel, the Prophet of the Massas.
+
+---
+
+## **Origins of the Hexadem**
+
+The Hexadem arose during the early Expansion Era, when the Seven Prophets—each chosen through dreams, visions, or divine encounters—were independently guided across Omain. These prophets chronicled:
+
+- the **death of Orialis** and the reshaping of the world by Drorialis’s sorrow
+    
+- the creation of the **Six Gods**
+    
+- the crafting of Humanity and all its subspecies
+    
+- the descent of the **Massas**, divine champions sent to restore balance
+    
+- the laws, teachings, parables, and warnings delivered through visions
+    
+- the earliest covenants between mortals and the divine
+    
+
+After years of pilgrimage, the prophets gathered in Erule, sanctified their writings, and unified them under one title: **The Hexadem**, “The Sixfold Truth.”
+
+---
+
+## **Structure of the Hexadem**
+
+The Hexadem contains **seven internal books**, each written in an archaic, scripture-like style:
+
+1. **The Book of the Massas** — _by Joratho Vel_ commonly named "Massas"
+    The earliest and longest text. Describes the creation of the Massas, the laws they taught, and the first prophecy of **Massa ke Hexademis**, the Chosen of All Six.
+    
+2. **The Book of Auriel** — _by Emira Dhalos_, commonly named "Auriel"
+    Recalls her descent into deep caverns and lost forests, collecting tales of elemental harmony, storms, and the spirits of nature.
+    
+3. **The Book of Shar** — _by Teleron Vesh_, commonly named "Shar"
+    A dark chronicle of suffering, fear, death-magic, and the discovery of necromancy—now heavily regulated.
+    
+4. **The Book of Tiamat** — _by Marrin Orun_, commonly named "Tiamat"
+    Tales of fire, bravery, dragons, and the forging of valour. Contains parables of conflict and noble sacrifice.
+    
+5. **The Book of Eldath** — _by Kelvath Orun_, commonly named "Eldath"
+    A gentler text on life, compassion, healing, and the inevitability of mortality.
+    
+6. **The Book of Oghma** — _by Seravus Morn_, commonly named "Oghma"
+    A catalogue of thought, invention, logic, and early philosophy. The only book that explicitly rejects prophecy.
+    
+7. **The Book of Tetford** — _by Eldra Vanton_, commonly named "Tetford"
+    The oldest calendar, the rhythms of time, celestial movements, and the sacred burden of patience and urgency.
+    
+
+---
+
+## **Purpose and Importance**
+
+To the faithful, the Hexadem is:
+
+- **Cosmology** — explaining creation, mortality, fate, time, and magic.
+    
+- **Law** — the Sixfold Laws serve as moral and ethical guidelines across the Empire.
+    
+- **History** — a record of the earliest eras of Omain.
+    
+- **Prophecy** — foretelling calamities, warnings, and the coming of the **Seventh Chosen**.
+    
+- **Ritual Instruction** — detailing prayer, pilgrimage, cleansing, baptism, and sacred practices.
+    
+
+In the Erulian Empire, it is both **scripture and constitution**, shaping everything from governance to court rulings to military rites.
+
+Outside the Empire, the Hexadem is often revered, debated, reinterpreted, or resisted—but it remains the most influential text ever written on Omain.
+
+## **The Scripture**
+
+### Massas:
+**1:1**  
+In the stillness before all dawn, when neither star nor wind had risen, **Orialis the Shaper** stirred alone within the Void.
+
+**1:2**  
+From the dust of unmade eternity she gathered substance, and warmed it with her breath, saying, _“Awaken.”_
+
+**1:3**  
+And the dust answered her command, becoming the foundation of a world.
+
+**1:4**  
+Thus she formed **Omain**, and set it among the heavens as a jewel upon the crown of night.
+
+**1:5**  
+She lifted mountains with the sweep of her hands and carved rivers with the tracing of her fingers.
+
+**1:6**  
+She bound winds to their courses and commanded the seas to rise in their appointed places.
+
+**1:7**  
+And Orialis said, _“Let life know this place,”_  
+and from the fertile earth sprang the **Humanitas**, firstborn of her joy.
+
+**1:8**  
+She walked among them, teaching speech, craft, and harmony.
+
+**1:9**  
+But every mountain she shaped, every sea she willed into being, drew strength from her spirit.
+
+**1:10**  
+For creation is the pouring-out of the divine,  
+and her light waned as the world grew full.
+
+**1:11**  
+On the final morning she gathered the Humanitas and said,  
+_“Though I depart, my love remains.”_
+
+**1:12**  
+And Orialis yielded her life,  
+and the heavens mourned.
+
+**1:13**  
+Thus ended the **Age of Shaping**.
+
+---
+
+**2:1**  
+And it came to pass that when Orialis fell, Omain mourned with her.
+
+**2:2**  
+The mountains split; the forests withered;  
+the rivers thinned to sorrow.
+
+**2:3**  
+The Humanitas wandered the dying fields, calling for the voice that once guided them.
+
+**2:4**  
+But the heavens were silent,  
+and the winds lost their song.
+
+**2:5**  
+Storms grew cruel, beasts turned wild,  
+and the earth recoiled in anguish.
+
+**2:6**  
+For the spirit of Orialis had been woven into all creation,  
+and her death left a wound that bled across the world.
+
+**2:7**  
+Day dimmed its light, and night veiled its moon.
+
+**2:8**  
+Life waned, and sorrow lay thick upon the land.
+
+**2:9**  
+Then from the far heavens came **Drorialis**, beloved of Orialis, beholding her fallen glory.
+
+**2:10**  
+He lifted her scattered essence in his hands and cried out,  
+and his lament shook the vault of the sky.
+
+**2:11**  
+Thus began the **Second Sorrow**.
+
+---
+**3:1**  
+Drorialis knelt upon the broken earth where Orialis had drawn her final breath.
+
+**3:2**  
+And he said, _“Beloved, though you are gone, your world shall not fall.”_
+
+**3:3**  
+With the fire of grief he bound the wounds of Omain,  
+closing the tears in its spirit.
+
+**3:4**  
+Yet he knew one alone could not uphold her work,  
+for her touch was deep in all things.
+
+**3:5**  
+Thus Drorialis tore from himself **six shards of divinity**,  
+and from each he fashioned a guardian.
+
+**3:6**  
+From his will he shaped **Tiamat**, Pillar of Reality.
+
+**3:7**  
+From his grief he shaped **Shar**, Pillar of Space.
+
+**3:8**  
+From his memory he shaped **Oghma**, Pillar of Mind.
+
+**3:9**  
+From his hope he shaped **Eldath**, Pillar of Fate.
+
+**3:10**  
+From his breath he shaped **Auriel**, Pillar of Elements.
+
+**3:11**  
+From his sorrow he shaped **Tetford**, Pillar of Time.
+
+**3:12**  
+And the Six bowed and swore:  
+_“We shall uphold what she has made until the last star fails.”_
+
+**3:13**  
+Together they breathed life anew upon Omain,  
+renewing forest and field, river and sky.
+
+**3:14**  
+And from their touch rose the peoples of later ages.
+
+**3:15**  
+Thus ended the Withering,  
+and began the **Greater Era of Population**.
+
+**3:16**  
+And Drorialis withdrew to the distant heavens,  
+and the Six governed the world.
+
+---
+**4:1**  
+When the Six Pillars took their thrones of dominion, they beheld Omain restored yet empty, for the Withering had swept the world silent.
+
+**4:2**  
+Then said **Tiamat**, Pillar of Reality, _“Let strength return to the earth, and let might walk upon its mountains once more.”_
+
+**4:3**  
+And from her breath she formed **dragons**, crowned in flame and wisdom, and from her blood she shaped the lesser **lizardfolk**, scaled and steadfast.
+
+**4:4**  
+And she said, _“Guard the high places and the deep caverns, for in you my valour shall dwell.”_
+
+**4:5**  
+Then **Shar**, Pillar of Space and Survival, stretched forth his shadow and whispered into the dark places beneath the world.
+
+**4:6**  
+From his grief were born the **tieflings**, marked by the void;  
+from his hunger arose the **goliaths**, mighty in sinew;  
+and from his silence crept the **shadow-beings**, keepers of dread and endurance.
+
+**4:7**  
+And he said, _“Let struggle sharpen you, and let fear teach you to rise.”_
+
+**4:8**  
+Then **Oghma**, Pillar of Mind and Soul, knelt upon the fertile earth and pressed his hand into the clay.
+
+**4:9**  
+Thus were shaped **Humans**, bearing unbound potential, and from the stone he carved the **Dwarves**, steadfast in craft.
+
+**4:10**  
+And he said, _“Through thought shall you ascend, and through labour shall you endure.”_
+
+**4:11**  
+Then **Auriel**, Pillar of the Elements, called to the winds, the storms, and the stone.
+
+**4:12**  
+From her laughter sprang the **gnomes**;  
+from her fury the **orcs**;  
+from her cunning the **goblins**;  
+and from her breath the **elemental spirits** of fire, frost, air, and earth.
+
+**4:13**  
+And she said, _“Let the world be wild, and may you learn its song.”_
+
+**4:14**  
+Then **Eldath**, Pillar of Fate and Mercy, knelt beside the rivers.
+
+**4:15**  
+From the rippling waters she shaped the **elves**, graceful in years;  
+and from the soil she awakened the **beasts and animals** of every land and sea.
+
+**4:16**  
+And she said, _“Walk gently, for all paths weave toward my hand.”_
+
+**4:17**  
+Finally **Tetford**, Pillar of Time, cast his gaze across the newborn world.
+
+**4:18**  
+He drew forth spirits bound to the turning of ages, **temporal beings**, unseen yet ever present.
+
+**4:19**  
+And he said, _“Mark the rise of nations and the fall of kings, for all things pass through my gate.”_
+
+**4:20**  
+Thus the races of Omain were rekindled, diverse in form yet one in origin.
+
+**4:21**  
+And the Six beheld their work and called it good.
+
+---
+
+**5:1**  
+In the early days of renewal, when the races of Omain were young, **Eldath** and **Tiamat** spoke together, saying,  
+_“Let there be guardians for the children of the earth, that they may not wander without counsel.”_
+
+**5:2**  
+So Eldath wove spirits of serenity and mercy.
+
+**5:3**  
+She made **Malaquath**, Angel of Serenity;  
+**Herios**, Angel of Stability;  
+**Trinqurian**, Angel of Union and Desire;  
+**Samalath**, Angel of Pride rightly held;  
+**Farilam**, Angel of Grace.
+
+**5:4**  
+And she said, _“Be lamps to guide the weary.”_
+
+**5:5**  
+Then Tiamat forged spirits of strength and guardianship.
+
+**5:6**  
+She made **Erolith**, Angel of Hope;  
+**Jewei**, Angel of Health;  
+**Jorasi**, Angel of Light;  
+**Talios**, Angel of Spirit;  
+**Calamos**, Angel of Joy;  
+**Hanif**, Angel of Honesty;  
+**Lugis**, Angel of Chastity;  
+**Asharios**, Angel of Trade;  
+**Galid**, Angel of Dreams;  
+**Yorvil**, Angel of Calm;  
+**Balvath**, Angel of Enlightenment.
+
+**5:7**  
+And she said, _“Be shields to uplift the worthy.”_
+
+**5:8**  
+For a time, the angels walked among Humanity and its kindred races, teaching them wisdom, healing, and restraint.
+
+**5:9**  
+But as the ages turned, **Erolith**, firstborn of Tiamat’s hope, grew sickened by the deeds of mortals.
+
+**5:10**  
+For she beheld cruelty, hunger for power, and the desolation wrought by mortal hands.
+
+**5:11**  
+And in her heart pride kindled into wrath.
+
+**5:12**  
+She spoke to her brother **Talios**, saying,  
+_“We serve those who squander all gifts. Let us unmake what our mother cherishes.”_
+
+**5:13**  
+And Talios, whose spirit yearned for dominion, hearkened to her counsel.
+
+**5:14**  
+Together they gathered secret strength, weaving a conspiracy in the hidden places of the spirit realm.
+
+**5:15**  
+But their treachery was revealed when Talios descended upon a village of elves and slew every soul therein.
+
+**5:16**  
+The earth cried out, and Tiamat knew his hand.
+
+**5:17**  
+In her fury she cast Talios from the heavens into **the Void of Orialis**, a place without time or return.
+
+**5:18**  
+And she cast Erolith far from Omain to **a godless world**, barren of divine shelter.
+
+**5:19**  
+Thus were the angels of Tiamat **sundered**, their forms twisted by exile and betrayal.
+
+**5:20**  
+Erolith, casting away her name, became **Ren Ash**, Demon of Depravity.
+
+**5:21**  
+Talios became **Demon of Death**;  
+Jewei, **Demon of Health**;  
+Jorasi, **Demon of Light**;  
+Calamos, **Demon of Despair**;  
+Asharios, **Demon of Souls**;  
+Hanif, **Demon of Honesty**;  
+Lugis, **Demon of Lust**;  
+Galid, **Demon of Nightmares**;  
+Yorvil, **Demon of Dread**;  
+Balvath, **Demon of Shadows**.
+
+**5:22**  
+And the heavens were sundered, and sorrow fell upon the Six.
+
+---
+
+**6:1**  
+When the angels fell and the demons rose from their ruin, the Six gathered in the Hall of Stars to take counsel.
+
+**6:2**  
+For the world trembled beneath the weight of corruption, and the races cried for deliverance.
+
+**6:3**  
+Then spoke **Tiamat**, heavy with grief,  
+_“My children are broken; my servants have betrayed. Who shall guard the world now?”_
+
+**6:4**  
+Eldath answered,  
+_“Mortals are fragile, yet their hearts are strong. Among them may rise champions.”_
+
+**6:5**  
+Auriel said,  
+_“Let the storms test them, for only those who endure are worthy.”_
+
+**6:6**  
+Shar said,  
+_“Let fear temper their resolve, for survival reveals the truth.”_
+
+**6:7**  
+Oghma said,  
+_“Let wisdom be their compass, for knowledge is the weapon that never dulls.”_
+
+**6:8**  
+Tetford spoke last,  
+_“All things in their season. Let those who rise be chosen by fate, not by birth.”_
+
+**6:9**  
+And the Six agreed to seek from among mortals those who would bear fragments of their power.
+
+**6:10**  
+These would be known as **the Massas**, the Chosen of the Gods,  
+sent forth to restore balance wherever shadow or folly took root.
+
+**6:11**  
+Thus was set into motion the Great Choosing,  
+and the age of the Massas began.
+
+---
+**7:1**  
+And it came to pass in the days after the Sundering, when the Six sought a champion, that **Auriel** cast her gaze upon the clay of the eastern riverbanks.
+
+**7:2**  
+For in that place the soil was rich with silt, the waters swift, and the winds gentle.
+
+**7:3**  
+Auriel knelt upon the shore and gathered the clay in her hands, shaping it with breath and a piece of quartz she formed from the crystals of noon.
+
+**7:4**  
+And she said, _“Let there be one who knows the voice of the storm, and the whisper of the stone.”_
+
+**7:5**  
+Then from the clay arose **a maiden with no name**, her skin like river-sand, her hair like the reeds that bend to the wind.
+
+**7:6**  
+The fire of Auriel burned within her heart, and the waters of the river cooled her brow.
+
+**7:7**  
+She opened her eyes and beheld the world, and the world knew her as **Massa ke Auris**, First of the Massas.
+
+**7:8**  
+And in that moment Joratho Vel, wandering the wilderness in search of guidance, felt a stirring in his spirit.
+
+**7:9**  
+For he had been granted the Sight of the Chosen, and knew the first Massa had risen.
+
+**7:10**  
+He hastened to the riverbank and beheld her standing upon the waters, for the river bore her as though she were weightless.
+
+**7:11**  
+And he fell upon his knees and said,  
+_“Blessed are you, flame-born and river-wrought, for Auriel has breathed her truth into your being.”_
+
+**7:12**  
+And Auris answered gently,  
+_“Rise, wanderer. Walk with me, and let us learn what the world has forgotten.”_
+
+---
+
+**8:1**  
+Auris walked the lands of Omain, and Joratho followed, recording all that his eyes beheld.
+
+**8:2**  
+She came first to the **Tribe of Shifting Sands**, who dwelt near the desert’s edge and feared the wrath of the storms.
+
+**8:3**  
+And Auris spoke:  
+_“The storm is not your enemy, but your teacher.”_
+
+**8:4**  
+Then she raised her hands and called the winds by name.
+
+**8:5**  
+A great sandstorm approached, but as it neared the tribe, Auris parted it with a single breath, and the storm bowed around the camp like a beast trained to heel.
+
+**8:6**  
+And the people cried in awe, saying,  
+_“She commands the sky as one commands a child.”_
+
+**8:7**  
+Next she came to the **Riverfolk of Calumar**, whose waters had dried in a season of great drought.
+
+**8:8**  
+Auris knelt upon the cracked riverbed and sang a song in a tongue older than mortal memory.
+
+**8:9**  
+And the stones beneath trembled, and from them sprang forth a fountain so abundant it carved a new river through the land.
+
+**8:10**  
+The Riverfolk named her **“She-Who-Stirs-the-Deep.”**
+
+**8:11**  
+Then Auris walked to the foothills of the mountains where the **Goliaths of High Rock** struggled against famine.
+
+**8:12**  
+She touched the barren soil, and whispered to the earth,  
+_“Wake, old mother, and nourish your children.”_
+
+**8:13**  
+And the fields blossomed with strange fruits unseen before that day, fruits filled with strength.
+
+**8:14**  
+Joratho wrote:  
+_“Never had I seen the land obey one’s touch with such swiftness, save only for the gods themselves.”_
+
+**8:15**  
+Auris then healed the feud between the **Stone Gnomes** and the **Salt Orcs** by standing between their armies.
+
+**8:16**  
+When their arrows flew, the wind curved them away.  
+When their spears were thrust, the stones absorbed the blows.
+
+**8:17**  
+And she said to them,  
+_“You war over scraps of earth, yet all earth is the body of Auriel. Why spill blood upon your own mother?”_
+
+**8:18**  
+Shamed, both tribes laid down their arms.
+
+**8:19**  
+Thus did Auris bring harmony where chaos dwelt,  
+and Joratho proclaimed her _“Keeper of the Fourfold Balance.”_
+
+---
+
+**9:1**  
+Auris gathered the tribes upon the Plains of Whispering Grass, and Joratho recorded her teachings so none might forget them.
+
+**9:2**  
+And Auris spoke, saying:
+
+**9:3**  
+_“The elements are not servants, but partners.  
+Treat them with reverence, and they shall sustain you.  
+Treat them with greed, and they shall undo you.”_
+
+**9:4**  
+She taught the **Ritual of the Fourfold Breath**,  
+a practice of balancing the self with the world:
+
+**9:5**  
+ _Inhale as the wind: seek freedom._  
+ _Hold as the stone: stand firm._  
+ _Release as the water: show mercy._  
+ _Burn as the flame: act with courage._
+
+**9:6**  
+And she taught the **Law of Circles**, saying:
+
+**9:7**  
+_“What you take must be returned.  
+What you break must be mended.  
+What you ignite must be tended.”_
+
+**9:8**  
+She instructed hunters to thank beasts before the kill,  
+and farmers to offer the first harvest back to the soil.
+
+**9:9**  
+She warned:
+
+_“When mortals forsake the balance,  
+storms grow wild and stones turn against them.”_
+
+**9:10**  
+Auris revealed to Joratho three **Elemental Signs**, by which the faithful might know Auriel’s will:
+
+**9:11**  
+ _If the winds turn warm in winter, mercy is needed._  
+ _If flame burns blue, truth is hidden._  
+_If stones split without cause, a great lie festers below._
+
+**9:12**  
+She taught healers the **Touch of the River**, a ritual of cleansing with spring-water and smooth stones.
+
+**9:13**  
+And she taught warriors the **Rite of the Ember**, placing ashes upon the brow before battle, saying:
+
+**9:14**  
+_“Let courage burn bright enough to banish fear,  
+yet never so fierce that it consumes the heart.”_
+
+**9:15**  
+She taught leaders:
+
+_“Rule as the storm rules —  
+swift in justice, slow in wrath.”_
+
+**9:16**  
+And to the children she said:
+
+_“The world is alive.  
+Listen, and it will speak to you.”_
+
+**9:17**  
+Thus were the Teachings of Auris set down by Joratho,  
+and preserved through the ages.
+
+**9:18**  
+And Auriel looked upon her chosen and said,  
+_“Among mortals walks my breath made flesh.”_
+
+**9:19**  
+And when Auris beheld that the tribes walked no longer in turmoil, but in balance with wind and wave and stone, she knew that her labour was ended.
+
+**9:20**  
+Then the earth quaked softly, and from the sky fell a single **quartz crystal**, pure and shining, from which Auris had first been shaped. And its light called unto her as a mother calleth unto her child.
+
+**9:21**  
+So Auris bowed her head, and her form became as shimmering breath; she entered the crystal, and the crystal rose unto Auriel’s hand, and the lands were quiet as the Chosen returned unto the Goddess of Elements.
+
+---
+**10:1**  
+Five years after Auris walked the lands and brought harmony among the tribes, she returned unto her mother Auriel, saying,  
+_“The balance is laid. Let others walk the path now.”_
+
+**10:2**  
+And the elements mourned her parting, yet they understood,  
+for a world too filled with peace grows slow, and slow hearts grow arrogant.
+
+**10:3**  
+In those days the tribes prospered greatly, and pride took root like rot within the fruit.
+
+**10:4**  
+Men declared themselves masters of all things.  
+Elves claimed dominion over the forests.  
+Dwarves dug deeper than wisdom allowed.  
+Orcs boasted strength beyond the storm.  
+Gnomes made mirth into mockery.  
+Tieflings turned their eyes from the void.
+
+**10:5**  
+And Shar, Pillar of Space and Survival, beheld this growing arrogance and said,  
+_“Comfort is the mother of ruin, and pride the father of folly.”_
+
+**10:6**  
+So he descended into the night sky and plucked **a feather from a falling bird**.  
+Then he descended to the stormy plains and gathered **a pinch of cloud** from the heart of thunder.
+
+**10:7**  
+From star-dust he formed bone;  
+from cloud he formed flesh;  
+from shadow he formed spirit.
+
+**10:8**  
+And he breathed dread into the form and shaped it into a man with no name—  
+a figure whose presence chilled the marrow.
+
+**10:9**  
+Shar placed him upon a **black horse with no eyes**, a beast that feared nothing and felt no pain.
+
+**10:10**  
+And Shar said unto him,  
+_“You are **Massa ke Zarr**, scourge and shepherd of the fearful.  
+Teach mortals the truth they have forgotten:  
+that only those who endure the darkness deserve the dawn.”_
+
+**10:11**  
+And Zarr rode forth across Omain, and I, Joratho, felt his arrival as a shiver through my soul.
+
+**10:12**  
+I followed his trail, though terror gripped my steps,  
+for it was commanded of me to witness all the Massas.
+
+---
+**11:1**  
+These are the deeds of Zarr which my eyes beheld,  
+though my spirit trembled to write them.
+
+**11:2**  
+He came first to the **Village of Mael’s Ford**, where pride had driven men to boast,  
+_“No beast, no god, no storm shall move us.”_
+
+**11:3**  
+Zarr stood upon the ridge and raised his hand.  
+From the forests poured **the Mawpack**, wolves of unnatural size, their eyes hollow with Shar’s shadow.
+
+**11:4**  
+The beasts did not slay, but surrounded the village, howling through the night until the villagers collapsed in terror and humility.
+
+**11:5**  
+And Zarr said,  
+_“Only the fearful survive.”_
+
+**11:6**  
+He next rode into the **Fields of Ambergrain**, where farmers mocked the drought, saying,  
+_“The land fears us, for we have mastered it.”_
+
+**11:7**  
+Zarr struck the ground with the butt of his spear, and the soil quaked.  
+The grain withered in an instant, and a black frost spread beneath their feet.
+
+**11:8**  
+The farmers fell weeping, for pride had blinded them.
+
+**11:9**  
+And Zarr said,  
+_“Your mastery is a lie. The world owes you nothing.”_
+
+**11:10**  
+He approached the **Goliaths of Greyhorn**, who boasted strength beyond all rivals.
+
+**11:11**  
+Zarr conjured from the void a **colossal horned beast**, its breath cold as the grave.
+
+**11:12**  
+The Goliaths fought it and were cast down,  
+yet Zarr spared them and said,
+
+**11:13**  
+_“Let the strong remember: there is always something stronger.”_
+
+**11:14**  
+He passed through the **Forest of Still Echoes**, where elves sang songs of perfection.
+
+**11:15**  
+Zarr shattered their illusions of safety,  
+calling forth the **Night Shapes**, spirits of shadow that mimic a mortal’s form.
+
+**11:16**  
+The elves fled, for they saw in the Night Shapes an image of their own hidden cruelty.
+
+**11:17**  
+And Zarr said,  
+_“See yourselves, and tremble.”_
+
+**11:18**  
+Thus did Zarr scour the land,  
+not to destroy,  
+but to break the chains of arrogance that bound the hearts of mortal and beast alike.
+
+**11:19**  
+I walked behind him, recording all, though dread weighed heavy upon me.
+
+**11:20**  
+For his path was bitter,  
+yet necessary.
+
+---
+**12:1**  
+Upon the barren ridge of Vathren’s Eye, Zarr gathered the tribes he had humbled.
+
+**12:2**  
+And he spoke words of iron, which I carved with trembling hands.
+
+**12:3**  
+_“First: Fear is the beginning of wisdom.”_
+
+**12:4**  
+_“Second: Comfort is the enemy of strength.”_
+
+**12:5**  
+_“Third: To endure the night is to earn the dawn.”_
+
+**12:6**  
+Zarr taught the **Shadow Watch**, a ritual of vigilance:
+
+**12:7**  
+Stand alone through the turning of one moonrise.  
+Face the darkness without flame.  
+Listen for the voice within that quivers.  
+Name your fear, and bind it with a whisper.
+
+**12:8**  
+_“For the unnamed fear devours,”_ he said,  
+_“but the named fear serves.”_
+
+**12:9**  
+Zarr named **Pride Untempered** as the greatest sin, saying:
+
+**12:10**  
+_“Pride that blinds is death.  
+Pride that sharpens is strength.  
+Learn which you carry.”_
+
+**12:11**  
+He listed four further sins that weaken the spirit:
+
+**12:12**  
+ _The Sin of Ease_: seeking comfort over growth.
+   
+**12:13**  
+_The Sin of Excess_: taking more than one needs.
+
+**12:14**  
+_The Sin of Boastfulness_: declaring mastery where none exists.  
+
+**12:15**  
+ _The Sin of Blind Trust_: relying on others instead of one’s own vigilance.
+
+**12:16**  
+To warriors he said:  
+_“Strike first when danger stirs, for hesitation is the herald of death.”_
+
+**12:17**  
+To leaders he said:  
+_“Rule not by love alone nor by fear alone.  
+For love grows weak without discipline,  
+and fear grows hollow without justice.”_
+
+**12:18**  
+To the children he said:  
+_“Face the dark.  
+Learn its shapes.  
+Let nothing surprise you.”_
+
+**12:19**  
+When he finished speaking, he turned to me and said:
+
+**12:20**  
+_“Writer of truth, carve these words that they may outlive my passing. For the world forgets quickly, and I am the reminder.”_
+
+**12:21**  
+Thus ended the works and teachings of **Massa ke Zarr**, scourge and shepherd of the fearful.
+
+**12:22**  
+And though his path was bitter,  
+the world was strengthened by his shadow.
+
+**12:23**  
+And when the days of Zarr were fulfilled, he looked upon the world he had darkened, and he knew his purpose was complete; for fear had taught Humanity the sharpness of living.
+
+**12:24**  
+Then a wind rose from the East, swift and cold, and Zarr’s black horse carried him unto the high places, where clouds gather in silence. And the mists opened before him as a gate.
+
+**12:25**  
+And Shar stretched forth His hand, bearing **the Feather of Night**, from which Zarr had been fashioned. And the Chosen returned unto the feather, and the feather unto Shar, and the clouds swallowed them both.
+
+---
+**13:1**  
+And when Zarr had returned unto his Father, and the land was quiet yet trembling, the hearts of the tribes were made small within them.
+
+**13:2**  
+For the terror of Shar had sunk deep as a thorn in the mind; none dared wander far from their hearth, nor tread the paths between village and wild.
+
+**13:3**  
+And Tiamat beheld the shaking of Humanity, and her spirit was moved with sorrow. For fear alone strengtheneth not, but breaketh the bones if courage be not given.
+
+**13:4**  
+Therefore Tiamat descended unto the Peak of Tetford, where the snows fall in silence and the winds bow low in reverence.
+
+**13:5**  
+And she took the tooth of a dying dragon—whose breath faded into the highest sky—and she mingled it with the first snow that ever fell upon the mountain.
+
+**13:6**  
+And from these she shaped a woman without name, whose body glowed faintly as embers in winter, and whose shadow was long and fearless.
+
+**13:7**  
+Thus was born **Massa ke Tiet**, the Chosen of Warmth and Courage, the Flame-Bearer of Tiamat.
+
+**13:8**  
+And Tiamat said unto her, _“Go forth, my daughter of flame, and lift the heads of Humanity. For their fear is narrow, and their eyes behold only death. Teach them the courage that endureth.”_
+
+**13:9**  
+Then Tiet opened her eyes, which shone like dawn upon frost, and she descended the mountain with steps that melted snow beneath her.
+
+---
+**14:1**  
+Tiet came first unto a village of the North where none dared light fire, for they whispered that Zarr still watched from the dark.
+
+**14:2**  
+And Tiet kindled a flame in the center of the square, though all wind opposed her.  
+And the fire burned blue, and none could quench it.
+
+**14:3**  
+Then said she unto the trembling folk:  
+_“Fear not the shadow, for flame was given that ye may see. Walk, therefore, and claim your days.”_
+
+**14:4**  
+And courage entered them like the breath of life, and they warmed their hands at the flame, and wept.
+
+**14:5**  
+She touched the arm of a man whose bones were broken by raiders, and strength returned to him as if he were wrought anew.
+
+**14:6**  
+She stood before a pack of night-wolves, and they bowed unto her, for fire leapt from her palm and formed a circle that held them fast.
+
+**14:7**  
+In the Valley of Garanth, where the earth froze even in summer, she sang a song taught by Tiamat, and the ice split open, revealing springs of warm water that flow even unto this day.
+
+**14:8**  
+And Tiet taught, saying:
+
+**14:9**  
+_“Fear hath its season, yet it shall not be thy master.”_
+
+**14:10**  
+_“Courage is not the blade, but the hand that lifteth it.”_
+
+**14:11**  
+_“Stand before the storm, and the storm shall remember thee.”_
+
+**14:12**  
+_“Honour is the fire that refuseth to die.”_
+
+**14:13**  
+And Tiet established the **Rite of Dawnfire**, wherein warriors light a small flame before battle to remind their hearts of the warmth of life.
+
+**14:14**  
+She gave also the **Lesson of the Four Breaths**, teaching the tribes to steady their spirits before danger:  
+_the Breath of Resolve,_  
+_the Breath of Vision,_  
+_the Breath of Might,  
+and the Breath of Gratitude._
+
+**14:15**  
+And she decreed that children coming of age must climb a hill alone and return before nightfall, that they may know the weight of their own courage.
+
+---
+**15:1**  
+Tiet warned the tribes, saying,  
+_“Courage is holy, yet pride is poison. Seek not battles for vanity, nor kindle flames to witness thy own name.”_
+
+**15:2 — The Sins Against Tiet she would mandate with honour and courage**
+
+- **15:3 _Cowardice** in the face of duty
+    
+- **15:4 _Abandonment** of kin in peril
+    
+- **15:5  _Boastfulness**, claiming courage one hath not shown
+    
+- **15:6  _Cruelty**, mistaking violence for valour
+    
+- **15:7 _False fire**, using flame to threaten the innocent
+    
+
+**15:8**  
+Tiet traveled for three years, and wherever her footsteps fell, warmth returned and the shadows of Zarr loosened.
+
+**15:9**  
+Yet her time was short, for she was born not of flesh but of fire and snow.
+
+**15:10**  
+And when her final work was complete, she returned unto the dragon’s tooth that birthed her, and laid herself upon the peak from whence she came.
+
+**15:11**  
+And a great wind lifted her away, scattering sparks across the sky like falling stars.
+
+**15:12**  
+Thus ended the days of **Massa ke Tiet**, Chosen of Courage, whose flame endureth in the hearts of all peoples.
+
+---
+**16:1**  
+And when Tiet returned unto the snows, courage burned bright upon the earth; yet Eldath beheld a trembling beneath it.
+
+**16:2**  
+For many among Humanity had become bold, yet forgot the measure of their days, thinking themselves unending as the mountains.
+
+**16:3**  
+And Eldath said, _“What profit is courage, if life be taken lightly? What profit is breath, if its number be never known?”_
+
+**16:4**  
+So Eldath walked the Quiet Fields, where the wheat swayeth though no wind passeth, and there she took a single **string of wheat**, golden and bending toward the earth.
+
+**16:5**  
+And she plucked from the back of a gentle hog a single hair, for the hog knoweth the simple truth of living and dying in its season.
+
+**16:6**  
+And Eldath wove these together in her palm, and from them rose a man without name, whose voice was soft as distant rain, and whose eyes beheld both the first dawn and the last dusk.
+
+**16:7**  
+Thus was formed **Massa ke Eldrad**, the Chosen of Fate, Guardian of Life’s Worth.
+
+**16:8**  
+And Eldath spoke unto him:  
+_“Go forth, my son of the final breath, and teach Humanity the sweetness of their days, lest they waste the hours given and profane the gift of being.”_
+
+**16:9**  
+And Eldrad bowed, serene as still water, and walked barefoot upon the earth, harming nothing beneath his step.
+
+---
+**17:1**  
+Eldrad came unto a village where men boasted of courage yet cast their elders aside, saying, “Their time hath passed.”
+
+**17:2**  
+And Eldrad spoke not, but laid his hand upon the hand of a forgotten widow, and the villagers were pierced with shame.
+
+**17:3**  
+For in his presence their hearts remembered what they had forgotten: that all flesh hath its season.
+
+**17:4**  
+He placed his palm upon the brow of a child fevered unto death, and the fever bowed itself and departed.
+
+**17:5**  
+He sat with a man whose breath faltered, and Eldrad said, _“Thy work is unfinished.”_  
+And the man rose, strengthened for **one more year**, that he might bless his lineage before passing.
+
+**17:6**  
+He walked through a battlefield where the dying cried unto the sky, and those whose hours were spent found peace in his presence, departing with calm faces.
+
+**17:7**  
+Upon the River Ethiel, he touched the water and it stilled, that the drowned might be lifted forth and honored by their kin.
+
+**17:8**  
+And Eldrad taught, saying:
+
+**17:9**  
+_“A day wasted is a jewel cast into dust.”_
+
+**17:10**  
+_“Honour thy elders, for they walk ahead of thee into the dusk.”_
+
+**17:11**  
+_“Measure thy courage, lest it devour the years meant for thy children.”_
+
+**17:12**  
+_“Every breath is a thread; weave it with care, lest it fray before its time.”_
+
+---
+**18:1**  
+Eldrad established the **Rite of the Last Light**, wherein families gather at sunset to remember those who went before, giving thanks for their span of days.
+
+**18:2**  
+He gave also the **Rite of the Wheat-String**, a binding of one’s household with a single length of woven wheat, symbol of unity before fate.
+
+**18:3**  
+And he taught the tribes to sit in silence for one hour each moon, to reckon their deeds and remember the fragility of the days granted.
+
+**18:4 _The Sin of Squandered Days**  
+To waste the hours in idle cruelty or neglect.
+
+**18:5 _The Sin of Forgotten Elders**  
+To cast aside the old, mocking their frailty.
+
+**18:6 _The Sin of Reckless Courage**  
+To throw away one’s life in vanity, making boldness an idol.
+
+**18:7 _The Sin of Stolen Time**  
+To deny another their rightful years through violence or neglect.
+
+**18:8 _The Sin of Despair**  
+To embrace hopelessness and call life worthless.
+
+**18:9**  
+And when his work was fulfilled, Eldrad returned to the Quiet Fields, where wheat grows warm though frost lay upon all lands.
+
+**18:10**  
+There he knelt, and Eldath placed her hand upon his brow.
+
+**18:11**  
+And he became as golden dust, carried upon a still wind, settling upon all lands as a blessing.
+
+**18:12**  
+Thus ended the days of **Massa ke Eldrad**, Chosen of Fate, whose wisdom endureth in every breath taken with gratitude.
+
+---
+**19:1**  
+And when Humanity learned the worth of life, and courage, and the shadow of fear, the people dwelt long in contemplation of their hearts. Yet they looked not beyond themselves.
+
+**19:2**  
+For they pondered their breath and their honour, but not the workings of their hands, nor the marvels hidden within their mind.
+
+**19:3**  
+And Oghma beheld this, and said,  
+_“A people that feareth, loveth, and endureth, yet knoweth not how to build, shall remain children all their days.”_
+
+**19:4**  
+So Oghma opened his **Bag of Endless Artifacts**, wherein lie the tools of the first thoughts ever spoken.
+
+**19:5**  
+And from it he drew forth a **silver quill cog**, gleaming as a star’s tooth, and **graphite from the tip of his ancient pencil**, black as midnight wisdom.
+
+**19:6**  
+And he set the cog upon the graphite, and struck them together upon an anvil of memory; and sparks of thought flew out, forming letters in the air that none could read.
+
+**19:7**  
+And from these sparks rose a woman without name, her eyes deep as understanding and her breath steady as logic.
+
+**19:8**  
+Thus was born **Massa ke Oghun**, Chosen of Mind and Making, the First Thinker of Oghma.
+
+**19:9**  
+And Oghma spoke unto her, saying,  
+_“Go forth, my daughter of design. Teach them to shape the world not only with the hand, but with the mind.”_
+
+---
+**20:1**  
+Oghun came unto a village where men quarreled over food and timber, for they knew not how to count nor plan for seasons.
+
+**20:2**  
+And she took a branch and traced marks in the dirt, teaching them to tally, to divide, and to store in wisdom.
+
+**20:3**  
+And their quarrels ceased, for she had shown them the virtue of understanding.
+
+**20:4**  
+She touched a stone axe dulled by long use, and its edge grew sharp as though shaped anew.
+
+**20:5**  
+She mended a cracked clay pot with a breath, and the pottery sealed itself as if newly fired.
+
+**20:6**  
+She bound fallen timber together with woven reeds, forming the first stable **support frame**, strong enough to lift a great boulder.
+
+**20:7**  
+In the Camp of Theros, she knotted vines together in patterns unseen before, making nets capable of catching fish in great number.
+
+**20:8**  
+And Oghun taught, saying:
+
+**20:9**  
+_“The mind is the tool that sharpeneth every other tool.”_
+
+**20:10**  
+_“To question is holy; to answer is duty.”_
+
+**20:11**  
+_“Let understanding be thy companion, lest confusion become thy master.”_
+
+**20:12**  
+_“Where many minds labor, miracles arise.”_
+
+**20:13**  
+She crafted the first **straight-line measure**, using stretched reed and ash charcoal, that builders might carve shelters evenly.
+
+**20:14**  
+She formed the **sun-shadow stick**, teaching the tribes to mark the passing of day by the movement of light.
+
+**20:15**  
+She showed them how to bind stones into foundations, saying,  
+_“Strength beginneth not in height, but in what lieth beneath.”_
+
+---
+**21:1**  
+Oghun gave the **Rite of the Silver Cog**, wherein craftsmen place a single gear or carved token upon their work before beginning, that their thoughts be set in order.
+
+**21:2**  
+She taught the **Meditation of the Question**, where one sits in silence each seventh day to ponder a single problem until its shape be known.
+
+**21:3**  
+She established the **Trial of Making**, a passage for youth wherein they must craft an object that easeth the life of another.
+
+**21:4 _The Sin of Willful Ignorance**  
+To refuse to learn when wisdom is offered.
+
+**21:5 _The Sin of Stagnation**  
+To cling to old ways when better ones stand revealed.
+
+**21:6 _The Sin of False Craft**  
+To create that which harms, deceives, or corrupts.
+
+**21:7 _The Sin of Stolen Thought**  
+To claim invention not one’s own.
+
+**21:8 _The Sin of Thoughtless Action**  
+To do without considering consequence.
+
+**21:9**  
+And when minds were awakened and tools of thought were forged across the land, Oghun stood upon a hill at twilight.
+
+**21:10**  
+And the **silver quill cog** from which she was shaped appeared before her, spinning softly in the air.
+
+**21:11**  
+And her form became as written ink dissolving into the breeze; she returned unto the Cog, and the Cog unto Oghma.
+
+**21:12**  
+Thus ended the days of **Massa ke Oghun**, Chosen of Mind, whose wisdom buildeth the foundations of all craft and all learning.
+
+---
+**22:1**  
+And when invention multiplied upon the earth, Humanity rejoiced, for their tools grew many and their works prospered.
+
+**22:2**  
+Yet Tetford beheld their hearts, and saw that they tarried long in delay, stretching their labours for profit, and hoarding time as though it were coin.
+
+**22:3**  
+For men said in their pride, _“Let us lengthen our making, that we may lengthen our gain,”_ and thus the seasons passed with works unfinished.
+
+**22:4**  
+Then Tetford rose from the Hall of Turning Sands, and took his **Hourglass of Ages**, whose grains had counted the rise of mountains and the fall of kings.
+
+**22:5**  
+And he gathered a **pinch of ancient dust**, left by ages forgotten, dust that had rested upon the first dawn.
+
+**22:6**  
+And Tetford opened the Hourglass, mixing the dust with the sands that flow unending.
+
+**22:7**  
+And from the swirling sands rose a man without name, whose eyes held both haste and patience, and whose breath flowed in rhythm with the passage of time.
+
+**22:8**  
+Thus was born **Massa ke Teft**, the Chosen of Time, Keeper of Urgency and Patience.
+
+**22:9**  
+And Tetford spoke unto him, saying:  
+_“Go forth, my son of the turning sands. Teach Humanity that time is not a treasure to hoard, but a river to heed. Let them measure their days with wisdom, and finish their works before dusk.”_
+
+**22:10**  
+And Teft bowed, and the sands around him stilled.
+
+---
+**23:1**  
+Teft came unto a town that delayed its harvest for feasting, and the grain rotted in the field.
+
+**23:2**  
+And Teft lifted a handful of spoiled wheat and let it fall through his fingers like sand, saying,  
+_“Thus falleth time when neglected.”_
+
+**23:3**  
+And the people were pierced with regret, and laboured swiftly, and the next harvest was saved.
+
+**23:4**  
+He touched a newborn whose breath faltered, and the child’s hours lengthened, gaining time enough to grow strong.
+
+**23:5**  
+He halted the setting of the sun for the span of one deep breath, that a mother might reach her dying son before the final light faded.
+
+**23:6**  
+In the Valley of Ilvran, he slowed the fall of a great stone, giving the workers time to flee and sparing many lives.
+
+**23:7**  
+And once, before a council of kings, he caused a single grain of sand to fall upward, showing that no man commandeth time but only heedeth it.
+
+**23:8**  
+And Teft taught, saying:
+
+**23:9**  
+_“Time waiteth not; therefore delay not.”_
+
+**23:10**  
+_“Be patient in crafting, yet swift in beginning.”_
+
+**23:11**  
+_“Let no profit steal from thee the urgency of work.”_
+
+**23:12**  
+_“He who respecteth time shall be respected by it.”_
+
+**23:13**  
+_“Mark the morning, labour at noon, rest at dusk, and reflect at night.”_
+
+---
+**24:1**  
+Teft established the **Rite of the First Grain**, wherein each dawn a worker picks up a single grain of sand or seed, reminding themselves to begin their task without delay.
+
+**24:2**  
+He gave the **Meditation of the Turning Palm**, where one lets sand flow through the hand while naming the works yet undone.
+
+**24:3**  
+And he taught the **Rite of Dusk Reckoning**, where families gather at sunset to recount what they have accomplished, no matter how small.
+
+**24:4 — The Sin of Delay**  
+To postpone what ought to be begun.
+
+**24:5 — The Sin of Idle Profit**  
+To lengthen labour for gain, stealing time from others.
+
+**24:6 — The Sin of Waste**  
+To use one’s hours in folly when duty is at hand.
+
+**24:7 — The Sin of Forgetfulness**  
+To neglect one’s tasks and obligations beyond their season.
+
+**24:8 — The Sin of Timelessness**  
+To live as though one’s days are infinite, scorning mortality.
+
+**24:9**  
+And when he had set the hearts of Humanity toward duty, and restored urgency to the hands of workers, Teft stood upon the banks of a silent river.
+
+**24:10**  
+Then Tetford’s **Hourglass of Ages** appeared beside him, its sands glowing as amber in twilight.
+
+**24:11**  
+And Teft’s body dissolved like drifting dust, returning unto the Hourglass, and the Hourglass returned unto Tetford.
+
+**24:12**  
+Thus ended the days of **Massa ke Teft**, Chosen of Time, whose lessons run like sands through all generations.
+
+---
+**25:1**  
+And after the Chosen had returned unto their makers, I walked the land to gather their teachings and behold their remnants.
+
+**25:2**  
+And I came unto the glade where **Auris** had lifted the child from the river, and the waters bowed still, though many winters had fled.
+
+**25:3**  
+There upon a stone I found the **Hex of Crystal**, faint with living light, and I knew the place would become the holy seat of **Auriel’s Temple**.
+
+**25:4**  
+And the wind whispered her teaching:  
+_“Balance is the cradle of all things, and the elements obey those who honour them.”_
+
+**25:5**  
+And I recorded her miracle at Seln, where she parted the flood with a touch.
+
+**25:6**  
+And Auris came to me in a dream of rain and fire.
+
+**25:7**  
+And she said:  
+_“There shall come a day when the storms devour the horizon and the earth trembles in forgotten tongues.”_
+
+**25:8**  
+_“Then shall one rise who carries calm in their breath and speaks the language of the skies.”_
+
+**25:9**  
+Then I journeyed unto the blackened plain where **Zarr** once rode.
+
+**25:10**  
+And upon a lone pillar of stone lay the **Hex of Feather**, dark as void, light as the breath of night.
+
+**25:11**  
+And I knew the place would become the sacred ground of **Shar’s Temple**.
+
+**25:12**  
+And the air trembled with his teaching:  
+_“Let fear sharpen thee; let arrogance be slain.”_
+
+**25:13**  
+And in waking vision Zarr appeared to me, cloaked in night.
+
+**25:14**  
+And he said:  
+_“In the age when men challenge the dark, fear shall return as teacher.”_
+
+**25:15**  
+_“And through dread shall wisdom endure.”_
+
+---
+
+**26:1**  
+And I went unto the village where **Tiet** had banished despair.
+
+**26:2**  
+And upon the altar of melting snow I found the **Hex of Tooth**, sharp yet warm, glimmering with her fire.
+
+**26:3**  
+And I knew the place would become the sacred heart of **Tiamat’s Temple**.
+
+**26:4**  
+And her teaching echoed:  
+_“Courage is the flame that refuses the wind.”_
+
+**26:5**  
+Her miracle remained in the hearth that had burned without fuel for seven nights to warm the frightened.
+
+**26:6**  
+And she came unto me in a dream of blazing ice.
+
+**26:7**  
+And she said:  
+_“When the heart of the world grows cold and valor wanes, one shall ignite hope with a single breath.”_
+
+**26:8**  
+_“And the courage of many shall be born from the fire of one.”_
+
+**26:9**  
+Then I descended to the valley touched by **Eldrad**, where time itself seemed hushed.
+
+**26:10**  
+And in the field I found the **Hex of Wheat**, golden as dawn, warm as his voice.
+
+**26:11**  
+And I knew the land would become the sanctified ground of **Eldath’s Temple**.
+
+**26:12**  
+His teaching lingered in the air:  
+_“Life is a single span; treasure it and let no moment be wasted.”_
+
+**26:13**  
+And I beheld the place where he granted the dying man one more year, and the wheat bowed as if in remembrance.
+
+**26:14**  
+And Eldrad appeared as a quiet shimmer at dusk.
+
+**26:15**  
+And he said:  
+_“When men forget the worth of breath and hasten toward meaningless ends, one shall rise to number their days anew.”_
+
+**26:16**  
+_“And the dying shall find peace, and the living shall learn humility.”_
+
+---
+**27:1**  
+And I journeyed to the workshop ruins touched by **Oghun**, where broken ideas rested like fallen stars.
+
+**27:2**  
+There upon a table of stone I found the **Hex of Cog**, wrought of silver and graphite, humming with thought.
+
+**27:3**  
+And I knew this place would rise again as the foundation of **Oghma’s Temple**.
+
+**27:4**  
+Her teaching burned within me:  
+_“The mind is a forge; let no day pass in idleness.”_
+
+**27:5**  
+And on the fourth night she stood before me, bright as the spark of invention.
+
+**27:6**  
+And she said:  
+_“Write no prophecy for my craft, for the mind bows to no fate.”_
+
+**27:7**  
+_“Let mankind shape tomorrow as they will, with reason as their compass.”_
+
+**27:8**  
+Then I ascended unto the ridge where **Teft** once walked.
+
+**27:9**  
+And there, upon a mound of ever-shifting sand, lay the **Hex of Hourglass**, filled with dust older than stars.
+
+**27:10**  
+And I knew the ridge would become the sacred spine of **Tetford’s Temple**.
+
+**27:11**  
+He taught me:  
+_“Time is the law before all laws; honour it and be spared folly.”_
+
+**27:12**  
+And Teft came to me in the final watch of night.
+
+**27:13**  
+And he said:  
+_“When mortals twist time for greed and bind progress with sloth, one shall rise whose steps resound through all hours.”_
+
+**27:14**  
+_“He shall restore the measure of things and remind the world that delay is but a thief.”_
+
+**27:15**  
+Thus did I, Joratho, gather the Hexes of the Six and record the teachings of their Chosen.
+
+**27:16**  
+And I set the Hexes upon altars of stone, that temples might rise upon their sanctified ground.
+
+**27:17**  
+May all who read these words walk with reverence beneath the eyes of the Six.
+
+---
+**28:1**  
+And when I had set the Hexes upon the altars, a whisper rose from the wind, bidding me walk unto the Empty Places, where no tribe dwelt and no beast made lair.
+
+**28:2**  
+So I girded myself in plain cloth and took no companion, for the voice said: _“The path must be walked alone.”_
+
+**28:3**  
+And on the fourth day I came to a barren plain of dust and stone, and there the heavens trembled like a drum.
+
+**28:4**  
+And a great stillness fell, and the Six spoke as one, though each voice bore its own colour and its own weight.
+
+**28:5**  
+Then a veil of light descended, and within it words were written as fire upon the air, yet they burned not.
+
+**28:6**  
+And the voices said:  
+_“Write these Laws, O Joratho, for they shall be the Pillars of the Hexadem and the rule of all who seek the Path.”_
+
+**28:7**  
+**Law of Balance** — _Let no mortal raise one element above the others, lest the world be torn as cloth._
+
+**28:8**  
+**Law of Fear’s Wisdom** — _Let fear not be hated, for it teaches the steps that keep a soul alive._
+
+**28:9**  
+**Law of the Flame of Courage** — _Let bravery be tempered by compassion, for fire without heart is ruin._
+
+**28:10**  
+**Law of the Short Breath** — _Let every life be honoured, for all breaths are counted by unseen hands._
+
+**28:11**  
+**Law of Mind’s Burden** — _Let knowledge be sought, but never chained for greed._
+
+**28:12**  
+**Law of Time’s Measure** — _Let no hour be wasted, for delay devours that which cannot be restored._
+
+**28:13**  
+And the vision sealed itself like wax, and the plain grew silent once more.
+
+---
+**29:1**  
+And I journeyed further, until my strength waned and the sky grew bronze as if the sun bled through dust.
+
+**29:2**  
+Then the earth split before me, and a column of flame rose, yet I felt no heat.
+
+**29:3**  
+And Tiamat’s voice came from the fire, mighty as storm and soft as breath.
+
+**29:4**  
+And she said:  
+_“These are the Warnings, that the world may not stray as it once did.”_
+
+**29:5**  
+**Warning of Auriel** — _When storms speak with unfamiliar tongues, know that mortals have forgotten the harmony of the elements._
+
+**29:6**  
+**Warning of Shar** — _When men mock fear and seek danger for vanity, the shadows shall sharpen their teeth._
+
+**29:7**  
+**Warning of Tiamat** — _When courage becomes recklessness, the weak shall perish beneath the pride of the strong._
+
+**29:8**  
+**Warning of Eldath** — _When time is squandered and life is cheapened, harvests shall wither before their season._
+
+**29:9**  
+**Warning of Oghma** — _When knowledge is hoarded, invention shall cease and the world shall return to dust._
+
+**29:10**  
+**Warning of Tetford** — _When mortals twist time for desire, the hours shall rise against them and devour their works._
+
+**29:11**  
+And the visions swirled as a tempest, and I saw the world dimmed under the weight of forgetfulness.
+
+**29:12**  
+And I cried aloud, saying:  
+_“How shall mortals remember, when their hearts wander as leaves in wind?”_
+
+**29:13**  
+And the Six answered:  
+_“Through the Hexes, through the temples, and through the words you carve upon the world.”_
+
+**29:14**  
+And when the voices ceased, the flame vanished, leaving only a single stone warm beneath my hand.
+
+**30:1**  
+On the tenth day of my wandering, hunger pressed upon me and the wind carried no scent of water.
+
+**30:2**  
+And I fell upon my face and slept upon the dust, and in dreams a road of light stretched before me.
+
+**30:3**  
+And at its end stood six forms, veiled in gold, obsidian, flame, wheat, silver, and sand.
+
+**30:4**  
+And they spoke not as gods now, but as keepers of a covenant yet unmade.
+
+**30:5**  
+And they said:  
+_“Write not only the tales of the Chosen, nor only the laws and warnings.”_
+
+**30:6**  
+_“Write also the Covenant: that all mortals who seek the Path shall walk with humility, honouring fear, courage, mind, life, elements, and time.”_
+
+**30:7**  
+_“For these are the Six Pillars of the world since the death of Orialis and the sorrow of Drorialis.”_
+
+**30:8**  
+_“Let no tribe raise one Pillar above the rest, lest the world tremble again.”_
+
+**30:9**  
+And before the dream faded, each god placed their hand upon the Hex that bore their mark.
+
+**30:10**  
+And I beheld a brief vision:  
+**men building altars**, **children learning the Laws**, **temples rising from dust**, and **nations kneeling in unity**.
+
+**30:11**  
+And the voice said:  
+_“When the Six are remembered, the world shall prosper.”_
+
+**30:12**  
+_“When they are forgotten, the world shall fracture.”_
+
+**30:13**  
+And I awoke with tears upon my face, for the weight of the Covenant lay upon my spirit.
+
+**30:14**  
+Then I turned my steps toward Erule, to carve these words into stone, that they might endure beyond my days.
+
+---
+**31:1**  
+And after I received the Covenant of the Six, I rose from the dust of the Empty Places and girded myself for the years appointed unto me.
+
+**31:2**  
+And I walked the length of Omain, from the river-vales to the stone deserts, speaking the Laws where the tribes gathered and the Covenant where their hearts faltered.
+
+**31:3**  
+I carried no staff of authority, nor cloak of splendour; my garments were plain and my sandals worn, for the Six had said:  
+_“Let the truth, and not the herald, be adorned.”_
+
+**31:4**  
+And some mocked me, saying:  
+_“What shepherd speaks for the heavens?”_  
+Yet others listened, and the teachings entered them like rain upon dry earth.
+
+**31:5**  
+Thus did the Laws spread across the villages and the wild places.
+
+**31:6**  
+To the fearful I taught the **Wisdom of Fear**, and their trembling became strength.
+
+**31:7**  
+To the reckless I taught the **Flame of Courage**, and their fury became discipline.
+
+**31:8**  
+To the grieving I taught the **Short Breath**, and their sorrow found meaning.
+
+**31:9**  
+To craftsmen and wanderers I taught the **Burden of Mind**, and new thoughts ignited within them.
+
+**31:10**  
+To all tribes I taught the **Balance of Elements**, that no land be torn by pride.
+
+**31:11**  
+And to the slow-hearted I taught the **Measure of Time**, that their days be used and not wasted.
+
+**31:12**  
+And as I walked, men and women rose from their homes and followed me.
+
+**31:13**  
+And when I said, _“Follow not me, but the Six,”_ they answered:  
+_“We follow the voice that speaks of them.”_
+
+**31:14**  
+Thus were the First Pilgrims gathered; few in number yet steadfast in spirit.
+
+---
+**32:1**  
+And in the second year a whisper stirred the leaves, saying:  
+_“Return to the places where the Chosen trod.”_
+
+**32:2**  
+So I journeyed back to the **Crystal Glade**, and the Hex of Auriel shone with a brightness undimmed.
+
+**32:3**  
+And I knelt upon the moss and prayed:  
+_“Let harmony dwell upon the earth as upon the sea and sky.”_
+
+**32:4**  
+Then I came unto the **Pillar of Night**, where the Hex of Shar rested like a shadow that breathed.
+
+**32:5**  
+And I prayed:  
+_“Let fear teach, but never enslave.”_
+
+**32:6**  
+And I walked to the **Hearth of Tiet**, where warmth lingered though no flame burned, and there lay the Hex of Tooth.
+
+**32:7**  
+And I prayed:  
+_“Let courage kindle, yet never consume.”_
+
+**32:8**  
+Then I journeyed to the **Field of Eldrad**, where wheat bowed as though remembering his passing.
+
+**32:9**  
+And I prayed:  
+_“Let every life be honoured, and every moment cherished.”_
+
+**32:10**  
+And I ascended to the shattered hall where the Hex of Oghma hummed like a thought awaiting birth.
+
+**32:11**  
+And I prayed:  
+_“Let wisdom serve all, and not the few.”_
+
+**32:12**  
+Last I stood upon the **Windridge**, where the Hourglass Hex turned of its own will.
+
+**32:13**  
+And I prayed:  
+_“Let no hour be stolen by sloth, nor any day wasted in vanity.”_
+
+**32:14**  
+And the Six spoke with one voice saying:  
+_“Your teaching is not yet ended; prepare your soul for the vision that shall bind your years together.”_
+
+---
+**33:1**  
+And in the third year I returned to the hill of my childhood, outside the city of Erule, and I slept beneath the ancient olive whose branches had witnessed my youth.
+
+**33:2**  
+And as my breath slowed, my spirit was lifted beyond the veil of flesh, unto a realm where no wind moved and no shadow fell.
+
+**33:3**  
+There the Six stood in radiance, each bearing the Hex that bore Their mark.
+
+**33:4**  
+And Their voices joined as one, saying:  
+_“Hear the last mystery, O Joratho.”_
+
+---
+**33:5**  
+And a great light opened before me, brighter than dawn yet gentle as wheat in breeze.
+
+**33:6**  
+And from the midst of the light stepped a **figure without age or name**, clothed in neither darkness nor flame, but in the quiet stillness of all things united.
+
+**33:7**  
+And the Six bowed Their heads unto this figure.
+
+**33:8**  
+And the voice said:  
+_“In the age when nations contend, when courage wars with fear, when time is squandered and wisdom silenced…”_
+
+**33:9**  
+_“…then shall arise one who is chosen not by one, nor by two, but by all Six together.”_
+
+**33:10**  
+_“They shall bear the balance of the world upon their shoulders.”_
+
+**33:11**  
+_“And men shall know them as **Massa ke Hexademis**, the Chosen of the Six, who walks when the world trembles.”_
+
+---
+**33:12**  
+And the figure turned to me, and though it had no face, I felt the warmth of blessing and the weight of destiny.
+
+**33:13**  
+And I fell to my knees, crying out:  
+_“How shall the world endure such a time?”_
+
+**33:14**  
+And the Six answered:  
+_“Through remembrance of the Laws you have written, and through the hope placed in the Seventh.”_
+
+**33:15**  
+Then the vision sealed itself like a door of stone, and I awoke with tears upon my hands.
+
+**33:16**  
+And the pilgrims said:  
+_“Your eyes shine as one who has seen beyond the end of days.”_
+
+**33:17**  
+And I answered:  
+_“Nay. I have seen the beginning that waits at the world’s end.”_
