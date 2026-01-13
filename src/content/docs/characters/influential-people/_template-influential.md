@@ -14,7 +14,7 @@ import DynamicBreadcrumb from "../../../../components/DynamicBreadcrumb.astro";
 
 <DynamicBreadcrumb />
 
-## **Overview****
+## **Overview***
 
 
 Headline: what power they hold and why they matter.
