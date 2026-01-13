@@ -7,7 +7,7 @@ role: npc
 status: active
 faction: Erulian Empire
 firstSeenIn: Session 0 — Title
-draft: true
+draft: false
 ---
 
 import DynamicBreadcrumb from "../../../../components/DynamicBreadcrumb.astro";
