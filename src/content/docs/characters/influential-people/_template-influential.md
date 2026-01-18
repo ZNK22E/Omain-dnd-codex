@@ -14,8 +14,6 @@ import DynamicBreadcrumb from "../../../../components/DynamicBreadcrumb.astro";
 
 <DynamicBreadcrumb />
 
-## **Overview***
-
 
 Headline: what power they hold and why they matter.
 
@@ -23,11 +21,11 @@ Headline: what power they hold and why they matter.
 
 What people notice first about them.
 
-## ****Personality**
+## **Personality**
 
 Public face vs private behaviour, fears, flaws.
 
-## ****Influence & Resources**
+## **Influence & Resources**
 
 What they can command: troops, money, information, magic, etc.
 
@@ -37,7 +35,7 @@ What they want and what they’re willing to do to get it.
 
 ## **Events**
 
-
+Players must dig to discover this
 ## **Secrets**
 
-Things the players don’t know (yet).
+Players must dig to discover this
